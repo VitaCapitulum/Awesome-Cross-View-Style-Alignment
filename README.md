@@ -5,7 +5,7 @@
 ## Papers with code
 
 ### Pan-sharpening
-<span style="background-color:#FFE6E6"> TNNLS 2024 VOGTNET </span> VOGTNet: Variational Optimization-Guided Two-Stage Network for Multispectral and Panchromatic Image Fusion [Link]([주소](https://ieeexplore.ieee.org/document/10558848))  <!-- 줄 바꿈은 문장 끝 스페이스바 두번 -->
+[TNNLS 2024 VOGTNET] VOGTNet: Variational Optimization-Guided Two-Stage Network for Multispectral and Panchromatic Image Fusion [Link](https://ieeexplore.ieee.org/document/10558848)  <!-- 줄 바꿈은 문장 끝 스페이스바 두번 -->
 
 ### Geometirc Alignment
 
