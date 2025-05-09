@@ -11,7 +11,7 @@
 <!-- 줄 바꿈은 문장 끝 스페이스바 두번 -->
 
 ### Pan-sharpening
-| Venue | Year | AKA | Paper | GitHub |
+| Venue | Year | AKA | Paper | Code |
 |-------|------|-----|--------|--------|
 | AAAI | 2025 | MFFA | [Wavelet-Assisted Multi-Frequency Attention Network for Pansharpening](https://ojs.aaai.org/index.php/AAAI/article/view/32381) | [Link](https://github.com/Jie-1203/WFANet) |
 | TGRS | 2025 | CDFInet | [Contour-Aware Dynamic Low-High Frequency Integration for Pan-Sharpening](https://ieeexplore.ieee.org/abstract/document/10909324) | [Link](https://github.com/Xidian-AIGroup190726/CDFInet) |
@@ -33,7 +33,7 @@
 <hr> <!-- 구분선 -->
 
 ### Remote Sensing
-| Venue | Year | AKA | Paper | GitHub |
+| Venue | Year | AKA | Paper | Code |
 |-------|------|-----|--------|--------|
 | TGRS | 2025 |  | [Brain-Inspired Online Adaptation for Remote Sensing With Spiking Neural Network](https://ieeexplore.ieee.org/abstract/document/10833809) | [Link](https://github.com/ThunderDavid/OASNN) |
 | JSTARS | 2024 | Survey | [Multimodal Colearning Meets Remote Sensing: Taxonomy, State of the Art, and Future Works](https://ieeexplore.ieee.org/abstract/document/10474099) |  |
@@ -45,7 +45,7 @@
 <hr>
 
 ### I2I via Generative Models
-| Venue | Year | AKA | Paper | GitHub |
+| Venue | Year | AKA | Paper | Code |
 |-------|------|-----|--------|--------|
 | IGARSS | 2025 |  | [Fine-Tuning Adversarially-Robust Transformers for Single-Image Dehazing](https://arxiv.org/abs/2504.17829) | [Link](https://github.com/Vladimirescu/RobustDehazing) |
 | TGRS | 2025 | SGLF | [Cross-Modality Domain Adaptation Based on Semantic Graph Learning: From Optical to SAR Images](https://ieeexplore.ieee.org/abstract/document/10963724) | [Link](https://github.com/XZhang878/SGLF) |
