@@ -38,7 +38,7 @@
 | TGRS | 2025 |  | [Brain-Inspired Online Adaptation for Remote Sensing With Spiking Neural Network](https://ieeexplore.ieee.org/abstract/document/10833809) | [Link](https://github.com/ThunderDavid/OASNN) |
 | JSTARS | 2024 | Survey | [Multimodal Colearning Meets Remote Sensing: Taxonomy, State of the Art, and Future Works](https://ieeexplore.ieee.org/abstract/document/10474099) |  |
 | IJCAI  | 2024 | DeepLightSR | [DeepLight: Reconstructing High-Resolution Observations of Nighttime Light With Multi-Modal Remote Sensing Data](https://arxiv.org/abs/2402.15659) | [Link](https://github.com/xian1234/DeepLight) |
-| TGRS | 2024 | SFCoT | [Transferable Adversarial Attacks for Remote Sensing Object Recognition via SpatialFrequency Co-Transformation](https://github.com/fuyimin96/SFCo(https://ieeexplore.ieee.org/document/10636327) | [Link](https://github.com/fuyimin96/SFCoT) |
+| TGRS | 2024 | SFCoT | [Transferable Adversarial Attacks for Remote Sensing Object Recognition via SpatialFrequency Co-Transformation](https://ieeexplore.ieee.org/document/10636327) | [Link](https://github.com/fuyimin96/SFCoT) |
 | TGRS | 2024 | GMFnet | [ConvGRU-Based Multiscale Frequency Fusion Network for PAN-MS Joint Classification](https://ieeexplore.ieee.org/abstract/document/10570233) | [Link](https://github.com/Xidian-AIGroup190726/GMFnet) |
 |  |  |  |  |  |
 
