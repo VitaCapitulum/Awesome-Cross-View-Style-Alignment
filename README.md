@@ -15,6 +15,7 @@
 | TPAMI | 2024 | SFINet | [A General Spatial-Frequency Learning Framework for Multimodal Image Fusion](https://ieeexplore.ieee.org/abstract/document/10443302) | [Link](https://github.com/manman1995/Awaresome-pansharpening) |
 | AAAI | 2024 | DISPNet | [Deep Unfolded Network with Intrinsic Supervision for Pan-Sharpening](https://ojs.aaai.org/index.php/AAAI/article/view/28350) | [Link](https://github.com/Baixuzx7/DISPNet) |
 | Information Fusion | 2024 | ZS-Pan | [Zero-shot semi-supervised learning for pansharpening](https://www.sciencedirect.com/science/article/pii/S1566253523003172) | [Link](https://github.com/coder-qicao/ZS-Pan) |
+|  |  |  |  |  |
 
 <hr> <!-- 구분선 -->
 
@@ -23,10 +24,18 @@
 |-------|------|-----|--------|--------|
 |  |  |  |  |  |
 
-<hr> <!-- 구분선 -->
+<hr>
 
 ### Remote Sensing
 | Venue | Year | AKA | Paper | GitHub |
 |-------|------|-----|--------|--------|
 | JSTARS | 2024 | Survey | [Multimodal Colearning Meets Remote Sensing: Taxonomy, State of the Art, and Future Works](https://ieeexplore.ieee.org/abstract/document/10474099) |  |
 | Information Fusion | 2024 | NCGLF2 | [NCGLF2 : Network combining global and local features for fusion of multisource remote sensing data](https://www.sciencedirect.com/science/article/pii/S1566253523005080) | [Link](https://github.com/renqi1998/NCGLF2) |
+|  |  |  |  |  |
+
+<hr>
+
+### Diffusion based I2I
+| Venue | Year | AKA | Paper | GitHub |
+|-------|------|-----|--------|--------|
+|  |  |  |  |  |
