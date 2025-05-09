@@ -54,5 +54,5 @@
 
 <hr>
 
-## MDPI(Remote Sensing) Article Template
-[Overleaf](https://www.overleaf.com/2777621724xcrtxfftdmty#9fd14f)
+## Project page
+[here](content/README.md)  
