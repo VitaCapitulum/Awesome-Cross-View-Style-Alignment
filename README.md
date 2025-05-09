@@ -1,7 +1,6 @@
 # Awesome Domain Style Alignment
 
 ## Papers with code
-<!-- ***는 구분선 -->
 <!-- 줄 바꿈은 문장 끝 스페이스바 두번 -->
 
 ### Pan-sharpening
@@ -17,10 +16,14 @@
 | AAAI | 2024 | DISPNet | [Deep Unfolded Network with Intrinsic Supervision for Pan-Sharpening](https://ojs.aaai.org/index.php/AAAI/article/view/28350) | [Link](https://github.com/Baixuzx7/DISPNet) |
 | Information Fusion | 2024 | ZS-Pan | [Zero-shot semi-supervised learning for pansharpening](https://www.sciencedirect.com/science/article/pii/S1566253523003172) | [Link](https://github.com/coder-qicao/ZS-Pan) |
 
+*** <!-- 구분선 -->
+
 ### Geometirc Alignment
 | Venue | Year | AKA | Paper | GitHub |
 |-------|------|-----|--------|--------|
 |  |  |  |  |  |
+
+*** <!-- 구분선 -->
 
 ### Remote Sensing
 | Venue | Year | AKA | Paper | GitHub |
