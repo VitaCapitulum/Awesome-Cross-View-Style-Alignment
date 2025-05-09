@@ -52,3 +52,5 @@
 | TGRS | 2024 | DR-AVIT | [DR-AVIT: Toward Diverse and Realistic Aerial Visible-to-Infrared Image Translation](https://ieeexplore.ieee.org/abstract/document/10540003) | [Link](https://github.com/silver-hzh/DR-AVIT) |
 |  |  |  |  |  |
 
+## MDPI(Remote Sensing) Article Template
+[Overleaf](https://www.overleaf.com/2777621724xcrtxfftdmty#9fd14f)
