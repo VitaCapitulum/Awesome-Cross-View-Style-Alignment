@@ -16,18 +16,14 @@
 | AAAI | 2024 | DISPNet | [Deep Unfolded Network with Intrinsic Supervision for Pan-Sharpening](https://ojs.aaai.org/index.php/AAAI/article/view/28350) | [Link](https://github.com/Baixuzx7/DISPNet) |
 | Information Fusion | 2024 | ZS-Pan | [Zero-shot semi-supervised learning for pansharpening](https://www.sciencedirect.com/science/article/pii/S1566253523003172) | [Link](https://github.com/coder-qicao/ZS-Pan) |
 
-
- *** <!-- 구분선 -->
-
+<hr> <!-- 구분선 -->
 
 ### Geometirc Alignment
 | Venue | Year | AKA | Paper | GitHub |
 |-------|------|-----|--------|--------|
 |  |  |  |  |  |
 
-
- *** <!-- 구분선 -->
-
+<hr> <!-- 구분선 -->
 
 ### Remote Sensing
 | Venue | Year | AKA | Paper | GitHub |
