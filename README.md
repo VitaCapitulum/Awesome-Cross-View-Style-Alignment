@@ -7,7 +7,7 @@
 ### Pan-sharpening
 | Venue | Year | AKA | Paper | GitHub |
 |-------|------|-----|--------|--------|
-| TNNLS | 2024 | VOGTNET | [VOGTNet: Variational Optimization-Guided Two-Stage Network for Multispectral and Panchromatic Image Fusion](https://arxiv.org/abs/xxxx.xxxxx](https://ieeexplore.ieee.org/document/10558848) | [GitHub Repo](https://github.com/HZC-1998/VOGTNet) |
+| TNNLS | 2024 | VOGTNET | [VOGTNet: Variational Optimization-Guided Two-Stage Network for Multispectral and Panchromatic Image Fusion](https://ieeexplore.ieee.org/document/10558848) | [GitHub Repo](https://github.com/HZC-1998/VOGTNet) |
 
 
 ### Geometirc Alignment
