@@ -11,7 +11,7 @@
 | ERX | 2024 |  | [Pansharpening and spatiotemporal image fusion method for remote sensing](https://iopscience.iop.org/article/10.1088/2631-8695/ad3a34/meta) |  | Survey |
 | PE&RS | 2024 |  | [Image Fusion in Remote Sensing: An Overview and Meta-Analysis](https://www.ingentaconnect.com/content/asprs/pers/2024/00000090/00000012/art00012) |  | Survey |
 | JoI | 2024 |  | [Benchmarking of Multispectral Pansharpening: Reproducibility, Assessment, and Meta-Analysis](https://www.mdpi.com/2313-433X/11/1/1) |  | Survey |
-| JoI | 2024 |  | [Benchmarking of Multispectral Pansharpening: Reproducibility, Assessment, and Meta-Analysis](https://www.mdpi.com/2313-433X/11/1/1) |  | Benchmark Protocol |
+| JoI | 2024 |  | [Benchmarking of Multispectral Pansharpening: Reproducibility, Assessment, and Meta-Analysis](https://www.mdpi.com/2313-433X/11/1/1) |  | Benchmark |
 | CVPR | 2024 | CANNet | [Content-Adaptive Non-Local Convolution for Remote Sensing Pansharpening](https://arxiv.org/abs/2404.07543) | [Link](https://github.com/duanyll/CANConv) |  |
 | AAAI | 2024 | DISPNet | [Deep Unfolded Network with Intrinsic Supervision for Pan-Sharpening](https://ojs.aaai.org/index.php/AAAI/article/view/28350) | [Link](https://github.com/Baixuzx7/DISPNet) |  |
 | AAAI | 2024 | FAME | [Frequency-Adaptive Pan-Sharpening with Mixture of Experts](https://ojs.aaai.org/index.php/AAAI/article/view/27984) | [Link](https://github.com/alexhe101/FAME-Net) |  |
