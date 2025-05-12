@@ -1,5 +1,5 @@
 # Overview
-This page describes the progress, comparison models, evaluation metrics, and the [template](https://www.overleaf.com/2777621724xcrtxfftdmty#9fd14f) to be used.
+This page outlines the research procedure and the required [template](https://www.overleaf.com/2777621724xcrtxfftdmty#9fd14f).
 
 ## Key challenge
 * 8bit 흑백 항공정사영상과 11bit 초소형 전정색 영상 간의 도메인 차이와 미세 기하학적 오차를 보정
@@ -9,8 +9,4 @@ This page describes the progress, comparison models, evaluation metrics, and the
 * 생성된 기준데이터의 유효성을 자기지도 학습 기반 정합 네트워크로 정량 검증
     * 대응되는 패치 쌍을 추출하고, Binary pseudo-label(정합 여부)과 Bias pseudo-label(중심점 위치 오프셋)을 생성
 
-## Expected framework
-
-## Comparison models
-
-## Evaluation metrics
+## 
