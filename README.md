@@ -4,19 +4,25 @@
 ### Pan-sharpening
 | Venue | Year | AKA | Paper | Code | Remarks |
 |-------|------|-----|--------|--------|--------|
-| AAAI | 2025 | MFFA | [Wavelet-Assisted Multi-Frequency Attention Network for Pansharpening](https://ojs.aaai.org/index.php/AAAI/article/view/32381) | [Link](https://github.com/Jie-1203/WFANet) |  |
-| TGRS | 2025 | CDFInet | [Contour-Aware Dynamic Low-High Frequency Integration for Pan-Sharpening](https://ieeexplore.ieee.org/abstract/document/10909324) | [Link](https://github.com/Xidian-AIGroup190726/CDFInet) |  |
-| TGRS | 2025 | EXP-PnP | [EXP-PnP: General Extended Model for Detail-Injected Pan-Sharpening With Plug-and-Play Residual Optimization](https://ieeexplore.ieee.org/abstract/document/10877917) | [Link](https://github.com/JZ-Tao/EXP-PnP/) |  |
-| TMM | 2025 | DUN | [Rethinking the Role of Panchromatic Images in Pan-sharpening](https://ieeexplore.ieee.org/abstract/document/10878451) | [Link](https://github.com/jiaming-wang/Project) |  |
-| KBS | 2025 |  HP-MFADN | [Multiscale common-private feature adversarial decoupling network for hyperspectral pansharpening](https://www.sciencedirect.com/science/article/pii/S0950705125000796) | [Link](https://github.com/Jiahuiqu/HP-MFDN) |  |
+| AAAI | 2025 | MFFA | [Wavelet-Assisted Multi-Frequency Attention Network for Pansharpening](https://ojs.aaai.org/index.php/AAAI/article/view/32381) | [Repo](https://github.com/Jie-1203/WFANet) |  |
+| CVPR | 2025 | ADWM | [A General Adaptive Dual-level Weighting Mechanism for Remote Sensing Pansharpening](https://arxiv.org/abs/2503.13214) | [Repo](https://github.com/Jie-1203/ADWM) |  |
+| CVPR | 2025 | ARConv | [Adaptive Rectangular Convolution for Remote Sensing Pansharpening](https://arxiv.org/abs/2503.00467) | [Repo](https://github.com/WangXueyang-uestc/ARConv) |  |
+| TGRS | 2025 | CDFInet | [Contour-Aware Dynamic Low-High Frequency Integration for Pan-Sharpening](https://ieeexplore.ieee.org/abstract/document/10909324) | [Repo](https://github.com/Xidian-AIGroup190726/CDFInet) |  |
+| TGRS | 2025 | EXP-PnP | [EXP-PnP: General Extended Model for Detail-Injected Pan-Sharpening With Plug-and-Play Residual Optimization](https://ieeexplore.ieee.org/abstract/document/10877917) | [Repo](https://github.com/JZ-Tao/EXP-PnP/) |  |
+| TMM | 2025 | DUN | [Rethinking the Role of Panchromatic Images in Pan-sharpening](https://ieeexplore.ieee.org/abstract/document/10878451) | [Repo](https://github.com/jiaming-wang/Project) |  |
+| KBS | 2025 |  HP-MFADN | [Multiscale common-private feature adversarial decoupling network for hyperspectral pansharpening](https://www.sciencedirect.com/science/article/pii/S0950705125000796) | [Repo](https://github.com/Jiahuiqu/HP-MFDN) |  |
 | GRSM | 2024 |  | [Hyperspectral Pansharpening: Critical review, tools, and future perspectives](https://ieeexplore.ieee.org/abstract/document/10804644) | [Link](https://github.com/matciotola/hyperspectral_pansharpening_toolbox) | Survey |
 | ERX | 2024 |  | [Pansharpening and spatiotemporal image fusion method for remote sensing](https://iopscience.iop.org/article/10.1088/2631-8695/ad3a34/meta) |  | Survey |
 | PE&RS | 2024 |  | [Image Fusion in Remote Sensing: An Overview and Meta-Analysis](https://www.ingentaconnect.com/content/asprs/pers/2024/00000090/00000012/art00012) |  | Survey |
 | JoI | 2024 |  | [Benchmarking of Multispectral Pansharpening: Reproducibility, Assessment, and Meta-Analysis](https://www.mdpi.com/2313-433X/11/1/1) |  | Benchmark |
+| NeurlPS | 2024 | SSDiff | [SSDiff: Spatial-spectral Integrated Diffusion Model for Remote Sensing Pansharpening](https://proceedings.neurips.cc/paper_files/paper/2024/hash/8e851181b937e2c519ff4c9adbe32be8-Abstract-Conference.html) | [Link](https://github.com/Z-ypnos/SSDiff_main) | Diffusion |
 | CVPR | 2024 | CANNet | [Content-Adaptive Non-Local Convolution for Remote Sensing Pansharpening](https://arxiv.org/abs/2404.07543) | [Link](https://github.com/duanyll/CANConv) |  |
+| CVPR | 2024 | CANConv | [Content-Adaptive Non-Local Convolution for Remote Sensing Pansharpening](https://openaccess.thecvf.com/content/CVPR2024/html/Duan_Content-Adaptive_Non-Local_Convolution_for_Remote_Sensing_Pansharpening_CVPR_2024_paper.html) | [Link](https://github.com/duanyll/canconv) |  |
 | AAAI | 2024 | DISPNet | [Deep Unfolded Network with Intrinsic Supervision for Pan-Sharpening](https://ojs.aaai.org/index.php/AAAI/article/view/28350) | [Link](https://github.com/Baixuzx7/DISPNet) |  |
 | AAAI | 2024 | FAME | [Frequency-Adaptive Pan-Sharpening with Mixture of Experts](https://ojs.aaai.org/index.php/AAAI/article/view/27984) | [Link](https://github.com/alexhe101/FAME-Net) |  |
 | ECCV | 2024 | LADE-DUN | [Latent Diffusion Prior Enhanced Deep Unfolding for Snapshot Spectral Compressive Imaging](https://link.springer.com/chapter/10.1007/978-3-031-73414-4_10) | [Link](https://github.com/Zongliang-Wu/LADE-DUN) | Diffusoin |
+| ECCV | 2024 | Perspective-EI | [Perspective-Equivariance for Unsupervised Imaging with Camera Geometry](https://arxiv.org/abs/2403.09327) | [Link](https://github.com/Andrewwango/perspective-equivariant-imaging) |  |
+| ACM MM | 2024 | LEVM | [A Novel State Space Model with Local Enhancement and State Sharing for Image Fusion](https://dl.acm.org/doi/abs/10.1145/3664647.3680905) | [Link](https://github.com/294coder/efficient-mif) |  |
 | TPAMI | 2024 | SFINet | [A General Spatial-Frequency Learning Framework for Multimodal Image Fusion](https://ieeexplore.ieee.org/abstract/document/10443302) | [Link](https://github.com/manman1995/Awaresome-pansharpening) |  |
 | TIP | 2024 | CrossDiff | [CrossDiff: Exploring Self-Supervised Representation of Pansharpening via Cross-Predictive Diffusion Model](https://ieeexplore.ieee.org/abstract/document/10685062) | [Link](https://github.com/codgodtao/CrossDiff) | Diffusion |
 | TGRS | 2024 | HLF-GDiffusion | [High-Low-Frequency Progressive-Guided Diffusion Model for PAN and MS Classification](https://ieeexplore.ieee.org/abstract/document/10589720) | [Link](https://github.com/Xidian-AIGroup190726/HLF-GDiffusion) | Diffusion |
@@ -27,6 +33,8 @@
 | TGRS | 2024 | DCPNet | [DCPNet: A Dual-Task Collaborative Promotion Network for Pansharpening](https://ieeexplore.ieee.org/abstract/document/10473165) | [Link](https://github.com/lhf12278/DCPNet) |  |
 | TGRS | 2024 | SDMSPan | [Supervised Detail-Guided Multiscale State-Space Model for Pan-Sharpening](https://ieeexplore.ieee.org/abstract/document/10812822) | [Link](https://github.com/zhaomengjiao123/SDMSPan) |  |
 | TGRS | 2024 | PEMAE | [Pixel-Wise Ensembled Masked Autoencoder for Multispectral Pansharpening](https://ieeexplore.ieee.org/document/10649657) | [Link](https://github.com/yc-cui/PEMAE) |  |
+| TGRS | 2024 | UTeRM | [Deep Unfolding Tensor Rank Minimization With Generalized Detail Injection for Pansharpening](https://ieeexplore.ieee.org/abstract/document/10804644) | [Link](https://github.com/mtntruong/UTeRM) |  |
+| TGRS | 2024 | PSDip | [Variational Zero-shot Multispectral Pansharpening](https://ieeexplore.ieee.org/abstract/document/10744593) | [Link](https://github.com/xyrui/PSDip) |  |
 |  |  |  |  |  |  |
 <hr> <!-- 구분선 -->
 
