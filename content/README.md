@@ -1,6 +1,6 @@
 # Overview
 This page outlines the research procedure and the required [template](https://www.overleaf.com/2777621724xcrtxfftdmty#9fd14f).  
-The relevant research papers are available on [this](README.md) page
+The relevant research papers are available on [this](../README.md) page
 
 ## Key challenge
 * 8bit 흑백 항공정사영상과 11bit 초소형 전정색 영상 간의 도메인 차이와 미세 기하학적 오차를 보정
