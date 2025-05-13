@@ -10,7 +10,6 @@
 | TGRS | 2025 | CDFInet | [Contour-Aware Dynamic Low-High Frequency Integration for Pan-Sharpening](https://ieeexplore.ieee.org/abstract/document/10909324) | [Repo](https://github.com/Xidian-AIGroup190726/CDFInet) |  |
 | TGRS | 2025 | EXP-PnP | [EXP-PnP: General Extended Model for Detail-Injected Pan-Sharpening With Plug-and-Play Residual Optimization](https://ieeexplore.ieee.org/abstract/document/10877917) | [Repo](https://github.com/JZ-Tao/EXP-PnP/) |  |
 | TMM | 2025 | DUN | [Rethinking the Role of Panchromatic Images in Pan-sharpening](https://ieeexplore.ieee.org/abstract/document/10878451) | [Repo](https://github.com/jiaming-wang/Project) |  |
-| GRSM | 2024 |  | [Hyperspectral Pansharpening: Critical review, tools, and future perspectives](https://ieeexplore.ieee.org/abstract/document/10804644) | [Repo](https://github.com/matciotola/hyperspectral_pansharpening_toolbox) | Survey |
 | ERX | 2024 |  | [Pansharpening and spatiotemporal image fusion method for remote sensing](https://iopscience.iop.org/article/10.1088/2631-8695/ad3a34/meta) |  | Survey |
 | PE&RS | 2024 |  | [Image Fusion in Remote Sensing: An Overview and Meta-Analysis](https://www.ingentaconnect.com/content/asprs/pers/2024/00000090/00000012/art00012) |  | Survey |
 | JoI | 2024 |  | [Benchmarking of Multispectral Pansharpening: Reproducibility, Assessment, and Meta-Analysis](https://www.mdpi.com/2313-433X/11/1/1) |  | Benchmark |
@@ -41,6 +40,7 @@
 | Venue | Year | AKA | Paper | Code | Remarks |
 |-------|------|-----|--------|--------|--------|
 | KBS | 2025 |  HP-MFADN | [Multiscale common-private feature adversarial decoupling network for hyperspectral pansharpening](https://www.sciencedirect.com/science/article/pii/S0950705125000796) | [Repo](https://github.com/Jiahuiqu/HP-MFDN) |  |
+| GRSM | 2024 |  | [Hyperspectral Pansharpening: Critical review, tools, and future perspectives](https://ieeexplore.ieee.org/abstract/document/10804644) | [Repo](https://github.com/matciotola/hyperspectral_pansharpening_toolbox) | Survey |
 
 ### Remote Sensing
 | Venue | Year | AKA | Paper | Code | Remarks |
