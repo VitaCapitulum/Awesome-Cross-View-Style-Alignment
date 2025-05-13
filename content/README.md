@@ -12,9 +12,12 @@ The relevant research papers are available on [this](../README.md) page
 
 ### Basic Concepts
 You can download a sample [dataset](https://github.com/liangjiandeng/PanCollection).  
-![sample1](../fig/grid_0.png)  
-![sample2](../fig/grid_1.png)  
-![sample3](../fig/grid_2.png)  
+<p align="center">
+  <img src="../fig/grid_0.png" style="width:100%;">
+</p>  
+<p align="center">
+  <img src="../fig/grid_1.png" style="width:100%;">
+</p>  
 <p align="center">
   <img src="../fig/grid_2.png" style="width:100%;">
-</p>
+</p>  
