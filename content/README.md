@@ -10,4 +10,5 @@ The relevant research papers are available on [this](../README.md) page
 * 생성된 기준데이터의 유효성을 자기지도 학습 기반 정합 네트워크로 정량 검증
     * 대응되는 패치 쌍을 추출하고, Binary pseudo-label(정합 여부)과 Bias pseudo-label(중심점 위치 오프셋)을 생성
 
-## 
+### Basic Concepts
+
