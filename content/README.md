@@ -17,10 +17,23 @@ Many research papers utilize Gaofen-2(GF), QuickBird(QB), and WorldView-3(WV3) i
 <hr>
 
 #### Basic Concepts
+| Term | Explanation | Remarks |
+|----|--------|----|
+| PAN (Panchromatic) | 흑백 이미지로, 넓은 스펙트럼 범위를 하나의 밴드로 수집하여 높은 공간 해상도를 제공 | 분광 해상도는 낮고 공간 해상도는 가장 높음 |
+| MS (Multispectral) | 여러 개의 스펙트럼 밴드를 가지며 중간 정도의 분광 해상도와 낮은 공간 해상도 | 다중 분광 이미지 통칭 |
+| HRMS | 고해상도 다중분광 영상으로 PAN의 공간해상도와 MS의 분광해상도를 동시에 갖춘 영상 | 팬샤프닝의 출력 혹은 GT |
+| LRMS | 낮은 공간 해상도의 MS 영상 | 보통 입력용 MS 이미지 |
+| HSI (Hyperspectral Image) | 수십~수백 개의 분광 밴드를 가지는 고분광 이미지 |  |
+| Spatial Resolution | 공간 해상도, 픽셀당 실제 지표의 크기 | 값이 낮을수록 해상도가 좋음 |
+| Spectral Resolution | 분광 해상도, 수집 가능한 밴드 수와 스펙트럼 간격의 정밀도 | 값이 높을수록 더 세분화된 스펙트럼 정보 |
+| Pansharpening | PAN + MS -> 고해상도 다중분광 이미지 생성 | HRMS |
+| Hyper-pansharpening | PAN + HSI -> 고해상도 고분광 이미지 생성 | HRHS |
+|  |  |  |
 
+<hr>
 
-#### 
-(https://github.com/liangjiandeng/PanCollection).  
+#### Example of WV3
+GT can be understood as HRMS, and LMS corresponds to LRMS. The output examples are presented in RGB format.  
 <p align="center">
   <img src="../fig/grid_0.png" style="width:100%;">
 </p>  
