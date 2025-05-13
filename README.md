@@ -25,7 +25,6 @@
 | TNNLS | 2024 | VOGTNET | [VOGTNet: Variational Optimization-Guided Two-Stage Network for Multispectral and Panchromatic Image Fusion](https://ieeexplore.ieee.org/document/10558848) | [Repo](https://github.com/HZC-1998/VOGTNet) |  |
 | TGRS | 2024 | UCGAN | [Unsupervised Pansharpening Based on Double-Cycle Consistency](https://ieeexplore.ieee.org/abstract/document/10457556) | [Repo](https://github.com/zhysora/UCGAN) |  |
 | IJCB | 2024 | DCINN | [A General Paradigm with Detail-Preserving Conditional Invertible Network for Image Fusion](https://link.springer.com/article/10.1007/s11263-023-01924-5) | [Repo](https://github.com/wwhappylife/DCINN) |  |
-| TGRS | 2024 | MFT-GAN | [MFT-GAN: A Multiscale Feature-Guided Transformer Network for Unsupervised Hyperspectral Pansharpening](https://ieeexplore.ieee.org/abstract/document/10531789) | [Repo](https://github.com/liuofficial/MFT-GAN) |  |
 | TGRS | 2024 | DCPNet | [DCPNet: A Dual-Task Collaborative Promotion Network for Pansharpening](https://ieeexplore.ieee.org/abstract/document/10473165) | [Repo](https://github.com/lhf12278/DCPNet) |  |
 | TGRS | 2024 | SDMSPan | [Supervised Detail-Guided Multiscale State-Space Model for Pan-Sharpening](https://ieeexplore.ieee.org/abstract/document/10812822) | [Repo](https://github.com/zhaomengjiao123/SDMSPan) |  |
 | TGRS | 2024 | PEMAE | [Pixel-Wise Ensembled Masked Autoencoder for Multispectral Pansharpening](https://ieeexplore.ieee.org/document/10649657) | [Repo](https://github.com/yc-cui/PEMAE) |  |
@@ -39,6 +38,7 @@
 |-------|------|-----|--------|--------|--------|
 | KBS | 2025 |  HP-MFADN | [Multiscale common-private feature adversarial decoupling network for hyperspectral pansharpening](https://www.sciencedirect.com/science/article/pii/S0950705125000796) | [Repo](https://github.com/Jiahuiqu/HP-MFDN) |  |
 | GRSM | 2024 |  | [Hyperspectral Pansharpening: Critical review, tools, and future perspectives](https://ieeexplore.ieee.org/abstract/document/10804644) | [Repo](https://github.com/matciotola/hyperspectral_pansharpening_toolbox) | Survey |
+| TGRS | 2024 | MFT-GAN | [MFT-GAN: A Multiscale Feature-Guided Transformer Network for Unsupervised Hyperspectral Pansharpening](https://ieeexplore.ieee.org/abstract/document/10531789) | [Repo](https://github.com/liuofficial/MFT-GAN) |  |
 
 ### Remote Sensing
 | Venue | Year | AKA | Paper | Code | Remarks |
