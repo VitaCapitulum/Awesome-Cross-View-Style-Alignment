@@ -1,7 +1,7 @@
 # Papers with code
 <!-- 줄 바꿈은 문장 끝 스페이스바 두번 -->
 
-### Pan-sharpening
+### Pansharpening
 | Venue | Year | AKA | Paper | Code | Remarks |
 |-------|------|-----|--------|--------|--------|
 | AAAI | 2025 | MFFA | [Wavelet-Assisted Multi-Frequency Attention Network for Pansharpening](https://ojs.aaai.org/index.php/AAAI/article/view/32381) | [Repo](https://github.com/Jie-1203/WFANet) |  |
@@ -37,6 +37,10 @@
 | TGRS | 2024 | PSDip | [Variational Zero-shot Multispectral Pansharpening](https://ieeexplore.ieee.org/abstract/document/10744593) | [Repo](https://github.com/xyrui/PSDip) |  |
 |  |  |  |  |  |  |
 <hr> <!-- 구분선 -->
+
+### Hyper-pansharpening
+| Venue | Year | AKA | Paper | Code | Remarks |
+|-------|------|-----|--------|--------|--------|
 
 ### Remote Sensing
 | Venue | Year | AKA | Paper | Code | Remarks |
