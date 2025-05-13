@@ -47,5 +47,5 @@ GT can be understood as HRMS, and LMS corresponds to LRMS. The output examples a
 <hr>
 
 ### Comparison
-#### Evaluate Metircs
+#### Evaluation Metircs
 #### Models
