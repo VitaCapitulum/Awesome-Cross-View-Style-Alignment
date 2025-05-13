@@ -30,6 +30,7 @@
 | TGRS | 2024 | PEMAE | [Pixel-Wise Ensembled Masked Autoencoder for Multispectral Pansharpening](https://ieeexplore.ieee.org/document/10649657) | [Repo](https://github.com/yc-cui/PEMAE) |  |
 | TGRS | 2024 | UTeRM | [Deep Unfolding Tensor Rank Minimization With Generalized Detail Injection for Pansharpening](https://ieeexplore.ieee.org/document/10506713) | [Repo](https://github.com/mtntruong/UTeRM) |  |
 | TGRS | 2024 | PSDip | [Variational Zero-shot Multispectral Pansharpening](https://ieeexplore.ieee.org/abstract/document/10744593) | [Repo](https://github.com/xyrui/PSDip) |  |
+| TGRS | 2024 | GMFnet | [ConvGRU-Based Multiscale Frequency Fusion Network for PAN-MS Joint Classification](https://ieeexplore.ieee.org/abstract/document/10570233) | [Repo](https://github.com/Xidian-AIGroup190726/GMFnet) |  |
 |  |  |  |  |  |  |
 
 <hr> <!-- 구분선 -->
@@ -40,17 +41,6 @@
 | KBS | 2025 |  HP-MFADN | [Multiscale common-private feature adversarial decoupling network for hyperspectral pansharpening](https://www.sciencedirect.com/science/article/pii/S0950705125000796) | [Repo](https://github.com/Jiahuiqu/HP-MFDN) |  |
 | GRSM | 2024 |  | [Hyperspectral Pansharpening: Critical review, tools, and future perspectives](https://ieeexplore.ieee.org/abstract/document/10804644) | [Repo](https://github.com/matciotola/hyperspectral_pansharpening_toolbox) | Survey |
 | TGRS | 2024 | MFT-GAN | [MFT-GAN: A Multiscale Feature-Guided Transformer Network for Unsupervised Hyperspectral Pansharpening](https://ieeexplore.ieee.org/abstract/document/10531789) | [Repo](https://github.com/liuofficial/MFT-GAN) |  |
-
-<hr>
-
-### Remote Sensing
-| Venue | Year | AKA | Paper | Code | Remarks |
-|-------|------|-----|--------|--------|--------|
-| TGRS | 2025 |  | [Brain-Inspired Online Adaptation for Remote Sensing With Spiking Neural Network](https://ieeexplore.ieee.org/abstract/document/10833809) | [Repo](https://github.com/ThunderDavid/OASNN) |  |
-| JSTARS | 2024 |  | [Multimodal Colearning Meets Remote Sensing: Taxonomy, State of the Art, and Future Works](https://ieeexplore.ieee.org/abstract/document/10474099) |  | Survey |
-| IJCAI  | 2024 | DeepLightSR | [DeepLight: Reconstructing High-Resolution Observations of Nighttime Light With Multi-Modal Remote Sensing Data](https://arxiv.org/abs/2402.15659) | [Repo](https://github.com/xian1234/DeepLight) |  |
-| TGRS | 2024 | SFCoT | [Transferable Adversarial Attacks for Remote Sensing Object Recognition via SpatialFrequency Co-Transformation](https://ieeexplore.ieee.org/document/10636327) | [Repo](https://github.com/fuyimin96/SFCoT) |  |
-| TGRS | 2024 | GMFnet | [ConvGRU-Based Multiscale Frequency Fusion Network for PAN-MS Joint Classification](https://ieeexplore.ieee.org/abstract/document/10570233) | [Repo](https://github.com/Xidian-AIGroup190726/GMFnet) |  |
 |  |  |  |  |  |  |
 
 <hr>
