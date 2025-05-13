@@ -12,6 +12,6 @@ The relevant research papers are available on [this](../README.md) page
 
 ### Basic Concepts
 You can download a sample [dataset](https://github.com/liangjiandeng/PanCollection).
-![sample1]()
-![sample2]()
-![sample3]()
+![sample1](fig/grid_0.png)
+![sample2](fig/grid_1.png)
+![sample3](fig/grid_2.png)
