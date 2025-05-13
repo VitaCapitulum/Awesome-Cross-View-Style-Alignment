@@ -15,3 +15,6 @@ You can download a sample [dataset](https://github.com/liangjiandeng/PanCollecti
 ![sample1](../fig/grid_0.png)  
 ![sample2](../fig/grid_1.png)  
 ![sample3](../fig/grid_2.png)  
+<p align="center">
+  <img src="../fig/grid_2.png" style="width:100%;">
+</p>
