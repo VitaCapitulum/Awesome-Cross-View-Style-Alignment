@@ -11,7 +11,7 @@ The relevant research papers are available on [this](../README.md) page
     * 대응되는 패치 쌍을 추출하고, Binary pseudo-label(정합 여부)과 Bias pseudo-label(중심점 위치 오프셋)을 생성
 
 ### Basic Concepts
-You can download a sample [dataset](https://github.com/liangjiandeng/PanCollection).
-![sample1](../fig/grid_0.png)
-![sample2](../fig/grid_1.png)
-![sample3](../fig/grid_2.png)
+You can download a sample [dataset](https://github.com/liangjiandeng/PanCollection).  
+![sample1](../fig/grid_0.png)  
+![sample2](../fig/grid_1.png)  
+![sample3](../fig/grid_2.png)  
