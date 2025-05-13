@@ -44,3 +44,8 @@ GT can be understood as HRMS, and LMS corresponds to LRMS. The output examples a
   <img src="../fig/grid_2.png" style="width:100%;">
 </p>  
 
+<hr>
+
+### comparison
+#### Evaluate Metircs
+#### Models
