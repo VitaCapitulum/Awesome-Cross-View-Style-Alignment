@@ -18,19 +18,20 @@
 | AAAI | 2024 | DISPNet | [Deep Unfolded Network with Intrinsic Supervision for Pan-Sharpening](https://ojs.aaai.org/index.php/AAAI/article/view/28350) | [Repo](https://github.com/Baixuzx7/DISPNet) |  |
 | AAAI | 2024 | FAME | [Frequency-Adaptive Pan-Sharpening with Mixture of Experts](https://ojs.aaai.org/index.php/AAAI/article/view/27984) | [Repo](https://github.com/alexhe101/FAME-Net) |  |
 | ECCV | 2024 | Perspective-EI | [Perspective-Equivariance for Unsupervised Imaging with Camera Geometry](https://arxiv.org/abs/2403.09327) | [Repo](https://github.com/Andrewwango/perspective-equivariant-imaging) |  |
-| ACM MM | 2024 | LEVM | [A Novel State Space Model with Local Enhancement and State Sharing for Image Fusion](https://dl.acm.org/doi/abs/10.1145/3664647.3680905) | [Repo](https://github.com/294coder/efficient-mif) | +HSI |
+| ACM MM | 2024 | LEVM | [A Novel State Space Model with Local Enhancement and State Sharing for Image Fusion](https://dl.acm.org/doi/abs/10.1145/3664647.3680905) | [Repo](https://github.com/294coder/efficient-mif) | +Hyper |
 | TPAMI | 2024 | SFINet | [A General Spatial-Frequency Learning Framework for Multimodal Image Fusion](https://ieeexplore.ieee.org/abstract/document/10443302) | [Repo](https://github.com/manman1995/Awaresome-pansharpening) |  |
 | TIP | 2024 | CrossDiff | [CrossDiff: Exploring Self-Supervised Representation of Pansharpening via Cross-Predictive Diffusion Model](https://ieeexplore.ieee.org/abstract/document/10685062) | [Repo](https://github.com/codgodtao/CrossDiff) | Diffusion |
 | TGRS | 2024 | HLF-GDiffusion | [High-Low-Frequency Progressive-Guided Diffusion Model for PAN and MS Classification](https://ieeexplore.ieee.org/abstract/document/10589720) | [Repo](https://github.com/Xidian-AIGroup190726/HLF-GDiffusion) | Diffusion |
 | TNNLS | 2024 | VOGTNET | [VOGTNet: Variational Optimization-Guided Two-Stage Network for Multispectral and Panchromatic Image Fusion](https://ieeexplore.ieee.org/document/10558848) | [Repo](https://github.com/HZC-1998/VOGTNet) |  |
 | TGRS | 2024 | UCGAN | [Unsupervised Pansharpening Based on Double-Cycle Consistency](https://ieeexplore.ieee.org/abstract/document/10457556) | [Repo](https://github.com/zhysora/UCGAN) |  |
-| IJCB | 2024 | DCINN | [A General Paradigm with Detail-Preserving Conditional Invertible Network for Image Fusion](https://link.springer.com/article/10.1007/s11263-023-01924-5) | [Repo](https://github.com/wwhappylife/DCINN) |  |
+| IJCB | 2024 | DCINN | [A General Paradigm with Detail-Preserving Conditional Invertible Network for Image Fusion](https://link.springer.com/article/10.1007/s11263-023-01924-5) | [Repo](https://github.com/wwhappylife/DCINN) | +HSI |
 | TGRS | 2024 | DCPNet | [DCPNet: A Dual-Task Collaborative Promotion Network for Pansharpening](https://ieeexplore.ieee.org/abstract/document/10473165) | [Repo](https://github.com/lhf12278/DCPNet) |  |
 | TGRS | 2024 | SDMSPan | [Supervised Detail-Guided Multiscale State-Space Model for Pan-Sharpening](https://ieeexplore.ieee.org/abstract/document/10812822) | [Repo](https://github.com/zhaomengjiao123/SDMSPan) |  |
 | TGRS | 2024 | PEMAE | [Pixel-Wise Ensembled Masked Autoencoder for Multispectral Pansharpening](https://ieeexplore.ieee.org/document/10649657) | [Repo](https://github.com/yc-cui/PEMAE) |  |
 | TGRS | 2024 | UTeRM | [Deep Unfolding Tensor Rank Minimization With Generalized Detail Injection for Pansharpening](https://ieeexplore.ieee.org/abstract/document/10804644) | [Repo](https://github.com/mtntruong/UTeRM) |  |
 | TGRS | 2024 | PSDip | [Variational Zero-shot Multispectral Pansharpening](https://ieeexplore.ieee.org/abstract/document/10744593) | [Repo](https://github.com/xyrui/PSDip) |  |
 |  |  |  |  |  |  |
+
 <hr> <!-- 구분선 -->
 
 ### Hyper-pansharpening
@@ -39,6 +40,8 @@
 | KBS | 2025 |  HP-MFADN | [Multiscale common-private feature adversarial decoupling network for hyperspectral pansharpening](https://www.sciencedirect.com/science/article/pii/S0950705125000796) | [Repo](https://github.com/Jiahuiqu/HP-MFDN) |  |
 | GRSM | 2024 |  | [Hyperspectral Pansharpening: Critical review, tools, and future perspectives](https://ieeexplore.ieee.org/abstract/document/10804644) | [Repo](https://github.com/matciotola/hyperspectral_pansharpening_toolbox) | Survey |
 | TGRS | 2024 | MFT-GAN | [MFT-GAN: A Multiscale Feature-Guided Transformer Network for Unsupervised Hyperspectral Pansharpening](https://ieeexplore.ieee.org/abstract/document/10531789) | [Repo](https://github.com/liuofficial/MFT-GAN) |  |
+
+<hr>
 
 ### Remote Sensing
 | Venue | Year | AKA | Paper | Code | Remarks |
