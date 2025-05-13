@@ -30,8 +30,11 @@ Many research papers utilize Gaofen-2(GF2), QuickBird(QB), and WorldView-3(WV3) 
 | Hyper-pansharpening | PAN + HSI -> 고해상도 고분광 이미지 생성 | HRHS |
 |  |  |  |
 
-#### Example of WV3 dataset
-GT can be understood as HRMS, and LMS corresponds to LRMS. The output examples are presented in RGB format.  
+#### Example of WV3 train dataset
+GT : shape(9714, 8, 64, 64), min(0.0000), max(2047.0000)  
+LMS : shape(9714, 8, 64, 64), min(-222.5743), max(2323.9167)  
+MS : shape(9714, 8, 16, 16), min(25.4855), max(1997.7802)  
+PAN :shape(9714, 1, 64, 64), min(76.4237), max(1988.2261)  
 <p align="center">
   <img src="../fig/grid_0.png" style="width:100%;">
 </p>  
