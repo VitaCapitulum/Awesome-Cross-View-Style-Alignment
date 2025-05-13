@@ -14,7 +14,7 @@ The relevant research papers are available on [this](../README.md) page
 
 ### Background
 #### Dataset
-Many research papers utilize Gaofen-2(GF), QuickBird(QB), and WorldView-3(WV3) in their studies. You can download a sample [dataset](https://github.com/liangjiandeng/PanCollection)
+Many research papers utilize Gaofen-2(GF), QuickBird(QB), and WorldView-3(WV3) in their studies. You can download a sample [dataset](https://github.com/liangjiandeng/PanCollection).
 
 #### Basic Concepts
 | Term | Explanation | Remarks |
@@ -30,7 +30,7 @@ Many research papers utilize Gaofen-2(GF), QuickBird(QB), and WorldView-3(WV3) i
 | Hyper-pansharpening | PAN + HSI -> 고해상도 고분광 이미지 생성 | HRHS |
 |  |  |  |
 
-#### Example of WV3
+#### Example of WV3 dataset
 GT can be understood as HRMS, and LMS corresponds to LRMS. The output examples are presented in RGB format.  
 <p align="center">
   <img src="../fig/grid_0.png" style="width:100%;">
