@@ -10,11 +10,11 @@ The relevant research papers are available on [this](../README.md) page
 * 생성된 기준데이터의 유효성을 자기지도 학습 기반 정합 네트워크로 정량 검증
     * 대응되는 패치 쌍을 추출하고, Binary pseudo-label(정합 여부)과 Bias pseudo-label(중심점 위치 오프셋)을 생성
 
+<hr>
+
 ### Background
 #### Dataset
 Many research papers utilize Gaofen-2(GF), QuickBird(QB), and WorldView-3(WV3) in their studies. You can download a sample [dataset](https://github.com/liangjiandeng/PanCollection)
-
-<hr>
 
 #### Basic Concepts
 | Term | Explanation | Remarks |
@@ -29,8 +29,6 @@ Many research papers utilize Gaofen-2(GF), QuickBird(QB), and WorldView-3(WV3) i
 | Pansharpening | PAN + MS -> 고해상도 다중분광 이미지 생성 | HRMS |
 | Hyper-pansharpening | PAN + HSI -> 고해상도 고분광 이미지 생성 | HRHS |
 |  |  |  |
-
-<hr>
 
 #### Example of WV3
 GT can be understood as HRMS, and LMS corresponds to LRMS. The output examples are presented in RGB format.  
