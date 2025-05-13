@@ -28,7 +28,7 @@
 | TGRS | 2024 | DCPNet | [DCPNet: A Dual-Task Collaborative Promotion Network for Pansharpening](https://ieeexplore.ieee.org/abstract/document/10473165) | [Repo](https://github.com/lhf12278/DCPNet) |  |
 | TGRS | 2024 | SDMSPan | [Supervised Detail-Guided Multiscale State-Space Model for Pan-Sharpening](https://ieeexplore.ieee.org/abstract/document/10812822) | [Repo](https://github.com/zhaomengjiao123/SDMSPan) |  |
 | TGRS | 2024 | PEMAE | [Pixel-Wise Ensembled Masked Autoencoder for Multispectral Pansharpening](https://ieeexplore.ieee.org/document/10649657) | [Repo](https://github.com/yc-cui/PEMAE) |  |
-| TGRS | 2024 | UTeRM | [Deep Unfolding Tensor Rank Minimization With Generalized Detail Injection for Pansharpening](https://ieeexplore.ieee.org/abstract/document/10804644) | [Repo](https://github.com/mtntruong/UTeRM) |  |
+| TGRS | 2024 | UTeRM | [Deep Unfolding Tensor Rank Minimization With Generalized Detail Injection for Pansharpening](https://ieeexplore.ieee.org/document/10506713) | [Repo](https://github.com/mtntruong/UTeRM) |  |
 | TGRS | 2024 | PSDip | [Variational Zero-shot Multispectral Pansharpening](https://ieeexplore.ieee.org/abstract/document/10744593) | [Repo](https://github.com/xyrui/PSDip) |  |
 |  |  |  |  |  |  |
 
