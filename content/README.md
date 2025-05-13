@@ -16,7 +16,7 @@ The relevant research papers are available on [this](../README.md) page
 #### Dataset
 Many research papers utilize Gaofen-2(GF2), QuickBird(QB), and WorldView-3(WV3) in their studies. You can download a sample [dataset](https://github.com/liangjiandeng/PanCollection).
 
-#### Basic Concepts
+#### Basic concepts
 | Term | Explanation | Remarks |
 |----|--------|----|
 | PAN (Panchromatic) | 흑백 이미지로, 넓은 스펙트럼 범위를 하나의 밴드로 수집하여 높은 공간 해상도를 제공 | 분광 해상도는 낮고 공간 해상도는 가장 높음 |
