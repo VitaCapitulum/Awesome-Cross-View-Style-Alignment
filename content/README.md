@@ -14,7 +14,7 @@ The relevant research papers are available on [this](../README.md) page
 
 ### Background
 #### Dataset
-Many research papers utilize Gaofen-2(GF), QuickBird(QB), and WorldView-3(WV3) in their studies. You can download a sample [dataset](https://github.com/liangjiandeng/PanCollection).
+Many research papers utilize Gaofen-2(GF2), QuickBird(QB), and WorldView-3(WV3) in their studies. You can download a sample [dataset](https://github.com/liangjiandeng/PanCollection).
 
 #### Basic Concepts
 | Term | Explanation | Remarks |
