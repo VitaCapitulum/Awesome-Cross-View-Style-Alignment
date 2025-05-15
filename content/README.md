@@ -49,14 +49,4 @@ PAN :shape(9714, 1, 64, 64), min(76.4237), max(1988.2261)
 
 ### Comparison
 Traditional methods are available at the following locations, [here](https://github.com/codegaj/py_pansharpening) and [here](https://github.com/matciotola/hyperspectral_pansharpening_toolbox/blob/main/preambol.yaml).  
-|  | MFFA | ADWM | ARConv | CDFInet | DUN | SSDIF | CAnConv | DISPNet | FAME | LEVM | SFINet | Code |
-| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
-| Traditional Methods |  |  |  |  |  |  |  |  |  |  |  |  |
-| MTF-GLP-FS | o | o | o |  |  | o | o |  |  | o |  |  |
-| BDSD-PC | o | o | o |  |  | o | o |  |  |  |  |  |
-| TV | o | o | o |  |  |  | o |  |  |  |  |  |
-| Deeplearning based |  |  |  |  |  |  |  |  |  |  |  |  |
-| [PNN](https://www.mdpi.com/2072-4292/8/7/594) | o | o | o |  | o | o | o |  |  |  | o |  |
-| [PanNet](https://ieeexplore.ieee.org/document/8237455) | o | o | o | o | o |  | o | o | o |  | o |  |
-| [DiCNN](https://ieeexplore.ieee.org/document/8667040) | o | o | o |  |  | o | o |  |  | o |  |  |
-| [FusionNet](https://ieeexplore.ieee.org/abstract/document/9240949) | o | o | o |  |  | o | o |  |  | o |  |  |
+
