@@ -5,7 +5,7 @@ Additional helpful resources [1](https://github.com/yuanmaoxun/Working-For-Pansh
 ### Pansharpening
 | Venue | Year | AKA | Paper | Code | Remarks |
 |-------|------|-----|--------|--------|--------|
-| AAAI | 2025 | MFFA | [Wavelet-Assisted Multi-Frequency Attention Network for Pansharpening](https://ojs.aaai.org/index.php/AAAI/article/view/32381) | [Repo](https://github.com/Jie-1203/WFANet) |  |
+| AAAI | 2025 | MFFA | [Wavelet-Assisted Multi-Frequency Attention Network for Pansharpening](https://ojs.aaai.org/index.php/AAAI/article/view/32381) | [Repo](https://github.com/Jie-1203/WFANet) | Pretrained Model |
 | CVPR | 2025 | ADWM | [A General Adaptive Dual-level Weighting Mechanism for Remote Sensing Pansharpening](https://arxiv.org/abs/2503.13214) | [Repo](https://github.com/Jie-1203/ADWM) |  |
 | CVPR | 2025 | ARConv | [Adaptive Rectangular Convolution for Remote Sensing Pansharpening](https://arxiv.org/abs/2503.00467) | [Repo](https://github.com/WangXueyang-uestc/ARConv) |  |
 | TGRS | 2025 | CDFInet | [Contour-Aware Dynamic Low-High Frequency Integration for Pan-Sharpening](https://ieeexplore.ieee.org/abstract/document/10909324) | [Repo](https://github.com/Xidian-AIGroup190726/CDFInet) |  |
