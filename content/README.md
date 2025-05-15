@@ -30,7 +30,7 @@ Many research papers utilize Gaofen-2(GF2), QuickBird(QB), and WorldView-3(WV3) 
 | Hyper-pansharpening | PAN + HSI -> 고해상도 고분광 이미지 생성 | HRHS |
 |  |  |  |
 
-#### Example visualization of the WV3 train dataset
+#### Example visualization of the WV3 train dataset(PanCollection)
 GT : shape(9714, 8, 64, 64), min(0.0000), max(2047.0000)  
 LMS : shape(9714, 8, 64, 64), min(-222.5743), max(2323.9167)  
 MS : shape(9714, 8, 16, 16), min(25.4855), max(1997.7802)  
@@ -48,5 +48,15 @@ PAN :shape(9714, 1, 64, 64), min(76.4237), max(1988.2261)
 <hr>
 
 ### Comparison
-#### Evaluation Metircs
-#### Models
+|  | MFFA | ADWM | ARConv | CDFInet | DUN | SSDIF | CAnConv | DISPNet | FAME | LEVM | SFINet |
+|  | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| [MTF-GLP-FS]() |  |  |  |  |  |  |  |  |  |  |  |
+| [BDSD-PC]() |  |  |  |  |  |  |  |  |  |  |  |
+| [TV]() |  |  |  |  |  |  |  |  |  |  |  |
+|  | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+|  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |
