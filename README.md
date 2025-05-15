@@ -1,5 +1,6 @@
 # Papers with code
 <!-- 줄 바꿈은 문장 끝 스페이스바 두번 -->
+Additional helpful resources [1](https://github.com/yuanmaoxun/Working-For-Pansharpening), [2](https://github.com/yc-cui/Pansharpening-Zoo)
 
 ### Pansharpening
 | Venue | Year | AKA | Paper | Code | Remarks |
