@@ -48,20 +48,15 @@ PAN :shape(9714, 1, 64, 64), min(76.4237), max(1988.2261)
 <hr>
 
 ### Comparison
-|  | MFFA | ADWM | ARConv | CDFInet | DUN | SSDIF | CAnConv | DISPNet | FAME | LEVM | SFINet |  |
+|  | MFFA | ADWM | ARConv | CDFInet | DUN | SSDIF | CAnConv | DISPNet | FAME | LEVM | SFINet | Repo |
 | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
-| MTF-GLP-FS | o | o | o |  |  | o | o |  |  | o |  | [Repo 1](https://github.com/codegaj/py_pansharpening), [Repo 2](https://github.com/matciotola/hyperspectral_pansharpening_toolbox/blob/main/preambol.yaml) |
+| MTF-GLP-FS | o | o | o |  |  | o | o |  |  | o |  | [1](https://github.com/codegaj/py_pansharpening), [2](https://github.com/matciotola/hyperspectral_pansharpening_toolbox/blob/main/preambol.yaml) |
 | BDSD-PC | o | o | o |  |  | o | o |  |  |  |  |  |
 | TV | o | o | o |  |  |  | o |  |  |  |  |  |
-| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
 |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |
+| PNN |  |  |  |  |  |  |  |  |  |  |  |  |
+| PanNet |  |  |  |  |  |  |  |  |  |  |  |  |
+| DiCNN |  |  |  |  |  |  |  |  |  |  |  |  |
+| FusionNet |  |  |  |  |  |  |  |  |  |  |  |  |
+| LAGConv |  |  |  |  |  |  |  |  |  |  |  |  |
+| MSDCNN |  |  |  |  |  |  |  |  |  |  |  |  |
