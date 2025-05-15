@@ -49,7 +49,7 @@ PAN :shape(9714, 1, 64, 64), min(76.4237), max(1988.2261)
 
 ### Comparison
 |  | MFFA | ADWM | ARConv | CDFInet | DUN | SSDIF | CAnConv | DISPNet | FAME | LEVM | SFINet |
-|  | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
 | [MTF-GLP-FS]() |  |  |  |  |  |  |  |  |  |  |  |
 | [BDSD-PC]() |  |  |  |  |  |  |  |  |  |  |  |
 | [TV]() |  |  |  |  |  |  |  |  |  |  |  |
