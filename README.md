@@ -33,7 +33,7 @@ Additional helpful resources [1](https://github.com/yuanmaoxun/Working-For-Pansh
 
 <hr> <!-- 구분선 -->
 
-### I2I via Generative Models
+### Remote Sensing I2I via Generative Models
 | Venue | Year | AKA | Paper | Code | Remarks |
 |-------|------|-----|--------|--------|--------|
 | IGARSS | 2025 |  | [Fine-Tuning Adversarially-Robust Transformers for Single-Image Dehazing](https://arxiv.org/abs/2504.17829) | [Repo](https://github.com/Vladimirescu/RobustDehazing) |  |
