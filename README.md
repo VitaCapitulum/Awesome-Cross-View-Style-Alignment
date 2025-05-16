@@ -45,6 +45,9 @@ Additional helpful resources [1](https://github.com/yuanmaoxun/Working-For-Pansh
 <hr>
 
 ### Spatial Alignment
+| Venue | Year | AKA | Paper | Code | Remarks |
+|-------|------|-----|--------|--------|--------|
+|  |  |  |  |  |  |
 
 <hr>
 
