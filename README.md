@@ -5,12 +5,9 @@ Additional helpful resources [1](https://github.com/yuanmaoxun/Working-For-Pansh
 ### Pansharpening
 | Venue | Year | AKA | Paper | Code | Remarks |
 |-------|------|-----|--------|--------|--------|
-| AAAI | 2025 | MFFA | [Wavelet-Assisted Multi-Frequency Attention Network for Pansharpening](https://ojs.aaai.org/index.php/AAAI/article/view/32381) | [Repo](https://github.com/Jie-1203/WFANet) | Pretrained Model |
+| AAAI | 2025 | MFFA | [Wavelet-Assisted Multi-Frequency Attention Network for Pansharpening](https://ojs.aaai.org/index.php/AAAI/article/view/32381) | [Repo](https://github.com/Jie-1203/WFANet) |  |
 | CVPR | 2025 | ADWM | [A General Adaptive Dual-level Weighting Mechanism for Remote Sensing Pansharpening](https://arxiv.org/abs/2503.13214) | [Repo](https://github.com/Jie-1203/ADWM) |  |
 | CVPR | 2025 | ARConv | [Adaptive Rectangular Convolution for Remote Sensing Pansharpening](https://arxiv.org/abs/2503.00467) | [Repo](https://github.com/WangXueyang-uestc/ARConv) |  |
-| TGRS | 2025 | CDFInet | [Contour-Aware Dynamic Low-High Frequency Integration for Pan-Sharpening](https://ieeexplore.ieee.org/abstract/document/10909324) | [Repo](https://github.com/Xidian-AIGroup190726/CDFInet) |  |
-| TGRS | 2025 | EXP-PnP | [EXP-PnP: General Extended Model for Detail-Injected Pan-Sharpening With Plug-and-Play Residual Optimization](https://ieeexplore.ieee.org/abstract/document/10877917) | [Repo](https://github.com/JZ-Tao/EXP-PnP/) |  |
-| TMM | 2025 | DUN | [Rethinking the Role of Panchromatic Images in Pan-sharpening](https://ieeexplore.ieee.org/abstract/document/10878451) | [Repo](https://github.com/jiaming-wang/Project) |  |
 | ERX | 2024 |  | [Pansharpening and spatiotemporal image fusion method for remote sensing](https://iopscience.iop.org/article/10.1088/2631-8695/ad3a34/meta) |  | Survey |
 | PE&RS | 2024 |  | [Image Fusion in Remote Sensing: An Overview and Meta-Analysis](https://www.ingentaconnect.com/content/asprs/pers/2024/00000090/00000012/art00012) |  | Survey |
 | JoI | 2024 |  | [Benchmarking of Multispectral Pansharpening: Reproducibility, Assessment, and Meta-Analysis](https://www.mdpi.com/2313-433X/11/1/1) |  | Benchmark |
