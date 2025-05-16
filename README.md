@@ -26,7 +26,6 @@ Additional helpful resources [1](https://github.com/yuanmaoxun/Working-For-Pansh
 | TGRS | 2024 | PEMAE | [Pixel-Wise Ensembled Masked Autoencoder for Multispectral Pansharpening](https://ieeexplore.ieee.org/document/10649657) | [Repo](https://github.com/yc-cui/PEMAE) |  |
 | TGRS | 2024 | UTeRM | [Deep Unfolding Tensor Rank Minimization With Generalized Detail Injection for Pansharpening](https://ieeexplore.ieee.org/document/10506713) | [Repo](https://github.com/mtntruong/UTeRM) | Pretrained |
 | TGRS | 2024 | PSDip | [Variational Zero-shot Multispectral Pansharpening](https://ieeexplore.ieee.org/abstract/document/10744593) | [Repo](https://github.com/xyrui/PSDip) |  |
-| TGRS | 2024 | GMFnet | [ConvGRU-Based Multiscale Frequency Fusion Network for PAN-MS Joint Classification](https://ieeexplore.ieee.org/abstract/document/10570233) | [Repo](https://github.com/Xidian-AIGroup190726/GMFnet) |  |
 |  |  |  |  |  |  |
 
 <hr> <!-- 구분선 -->
