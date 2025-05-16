@@ -31,7 +31,6 @@ Additional helpful resources [1](https://github.com/yuanmaoxun/Working-For-Pansh
 ### Hyper-pansharpening
 | Venue | Year | AKA | Paper | Code | Remarks |
 |-------|------|-----|--------|--------|--------|
-| KBS | 2025 |  HP-MFADN | [Multiscale common-private feature adversarial decoupling network for hyperspectral pansharpening](https://www.sciencedirect.com/science/article/pii/S0950705125000796) | [Repo](https://github.com/Jiahuiqu/HP-MFDN) |  |
 | GRSM | 2024 |  | [Hyperspectral Pansharpening: Critical review, tools, and future perspectives](https://ieeexplore.ieee.org/abstract/document/10804644) | [Repo](https://github.com/matciotola/hyperspectral_pansharpening_toolbox) | Survey |
 | TGRS | 2024 | MFT-GAN | [MFT-GAN: A Multiscale Feature-Guided Transformer Network for Unsupervised Hyperspectral Pansharpening](https://ieeexplore.ieee.org/abstract/document/10531789) | [Repo](https://github.com/liuofficial/MFT-GAN) |  |
 |  |  |  |  |  |  |
