@@ -8,6 +8,7 @@ Additional helpful resources [1](https://github.com/yuanmaoxun/Working-For-Pansh
 | AAAI | 2025 | MFFA | [Wavelet-Assisted Multi-Frequency Attention Network for Pansharpening](https://ojs.aaai.org/index.php/AAAI/article/view/32381) | [Repo](https://github.com/Jie-1203/WFANet) | Pretrained |
 | CVPR | 2025 | ADWM | [A General Adaptive Dual-level Weighting Mechanism for Remote Sensing Pansharpening](https://arxiv.org/abs/2503.13214) | [Repo](https://github.com/Jie-1203/ADWM) | Pretrained |
 | CVPR | 2025 | ARConv | [Adaptive Rectangular Convolution for Remote Sensing Pansharpening](https://arxiv.org/abs/2503.00467) | [Repo](https://github.com/WangXueyang-uestc/ARConv) | Pretrained |
+| GRSM | 2024 |  | [Hyperspectral Pansharpening: Critical review, tools, and future perspectives](https://ieeexplore.ieee.org/abstract/document/10804644) | [Repo](https://github.com/matciotola/hyperspectral_pansharpening_toolbox) | Hyper-pan, Survey |
 | ERX | 2024 |  | [Pansharpening and spatiotemporal image fusion method for remote sensing](https://iopscience.iop.org/article/10.1088/2631-8695/ad3a34/meta) |  | Survey |
 | PE&RS | 2024 |  | [Image Fusion in Remote Sensing: An Overview and Meta-Analysis](https://www.ingentaconnect.com/content/asprs/pers/2024/00000090/00000012/art00012) |  | Survey |
 | JoI | 2024 |  | [Benchmarking of Multispectral Pansharpening: Reproducibility, Assessment, and Meta-Analysis](https://www.mdpi.com/2313-433X/11/1/1) |  | Benchmark |
@@ -27,15 +28,6 @@ Additional helpful resources [1](https://github.com/yuanmaoxun/Working-For-Pansh
 |  |  |  |  |  |  |
 
 <hr> <!-- 구분선 -->
-
-### Hyper-pansharpening
-| Venue | Year | AKA | Paper | Code | Remarks |
-|-------|------|-----|--------|--------|--------|
-| GRSM | 2024 |  | [Hyperspectral Pansharpening: Critical review, tools, and future perspectives](https://ieeexplore.ieee.org/abstract/document/10804644) | [Repo](https://github.com/matciotola/hyperspectral_pansharpening_toolbox) | Survey |
-| TGRS | 2024 | MFT-GAN | [MFT-GAN: A Multiscale Feature-Guided Transformer Network for Unsupervised Hyperspectral Pansharpening](https://ieeexplore.ieee.org/abstract/document/10531789) | [Repo](https://github.com/liuofficial/MFT-GAN) |  |
-|  |  |  |  |  |  |
-
-<hr>
 
 ### I2I via Generative Models
 | Venue | Year | AKA | Paper | Code | Remarks |
