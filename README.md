@@ -22,12 +22,12 @@ Additional helpful resources [1](https://github.com/yuanmaoxun/Working-For-Pansh
 | TGRS | 2024 | DCPNet | [DCPNet: A Dual-Task Collaborative Promotion Network for Pansharpening](https://ieeexplore.ieee.org/abstract/document/10473165) | [Repo](https://github.com/lhf12278/DCPNet) | Pretrained |
 | TGRS | 2024 | UTeRM | [Deep Unfolding Tensor Rank Minimization With Generalized Detail Injection for Pansharpening](https://ieeexplore.ieee.org/document/10506713) | [Repo](https://github.com/mtntruong/UTeRM) | Pretrained |
 | CVPR | 2022 | HyperTransformer | [HyperTransformer: A Textural and Spectral Feature Fusion Transformer for Pansharpening](https://openaccess.thecvf.com/content/CVPR2022/html/Bandara_HyperTransformer_A_Textural_and_Spectral_Feature_Fusion_Transformer_for_Pansharpening_CVPR_2022_paper.html) | [Repo](https://github.com/wgcban/HyperTransformer) | Pretrained |
-| AAAI | 2022 | LAGConv | [LAGConv: Local-Context Adaptive Convolution Kernels with Global Harmonic Bias for Pansharpening](https://ojs.aaai.org/index.php/AAAI/article/view/19996) |  |  |
-| TGRS | 2020 | FusionNet | [Detail Injection-Based Deep Convolutional Neural Networks for Pansharpening](https://ieeexplore.ieee.org/abstract/document/9240949) |  |  |
-| JSTARS | 2019 | DiCNN | [Pansharpening via Detail Injection Based Convolutional Neural Networks](https://ieeexplore.ieee.org/abstract/document/8667040) |  |  |
-| JSTARS | 2018 | MSDCNN | [A Multiscale and Multidepth Convolutional Neural Network for Remote Sensing Imagery Pan-Sharpening](https://ieeexplore.ieee.org/document/8281501) |  |  |
-| ICCV | 2017 | PanNet | [Pannet: A deep network architecture for pan-sharpening](https://openaccess.thecvf.com/content_iccv_2017/html/Yang_PanNet_A_Deep_ICCV_2017_paper.html) |  |  |
-| Remote Sensing | 2016 | PNN | [Pansharpening by Convolutional Neural Networks](https://www.mdpi.com/2072-4292/8/7/594) |  |  |
+| AAAI | 2022 | LAGConv | [LAGConv: Local-Context Adaptive Convolution Kernels with Global Harmonic Bias for Pansharpening](https://ojs.aaai.org/index.php/AAAI/article/view/19996) |  | Comparison |
+| TGRS | 2020 | FusionNet | [Detail Injection-Based Deep Convolutional Neural Networks for Pansharpening](https://ieeexplore.ieee.org/abstract/document/9240949) |  | Comparison |
+| JSTARS | 2019 | DiCNN | [Pansharpening via Detail Injection Based Convolutional Neural Networks](https://ieeexplore.ieee.org/abstract/document/8667040) |  | Comparison |
+| JSTARS | 2018 | MSDCNN | [A Multiscale and Multidepth Convolutional Neural Network for Remote Sensing Imagery Pan-Sharpening](https://ieeexplore.ieee.org/document/8281501) |  | Comparison |
+| ICCV | 2017 | PanNet | [Pannet: A deep network architecture for pan-sharpening](https://openaccess.thecvf.com/content_iccv_2017/html/Yang_PanNet_A_Deep_ICCV_2017_paper.html) |  | Comparison |
+| Remote Sensing | 2016 | PNN | [Pansharpening by Convolutional Neural Networks](https://www.mdpi.com/2072-4292/8/7/594) |  | Comparison |
 |  |  |  |  |  |  |
 
 <hr> <!-- 구분선 -->
