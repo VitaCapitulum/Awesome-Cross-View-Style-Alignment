@@ -21,6 +21,10 @@ Additional helpful resources [1](https://github.com/yuanmaoxun/Working-For-Pansh
 | IJCB | 2024 | DCINN | [A General Paradigm with Detail-Preserving Conditional Invertible Network for Image Fusion](https://link.springer.com/article/10.1007/s11263-023-01924-5) | [Repo](https://github.com/wwhappylife/DCINN) | Pretrained |
 | TGRS | 2024 | DCPNet | [DCPNet: A Dual-Task Collaborative Promotion Network for Pansharpening](https://ieeexplore.ieee.org/abstract/document/10473165) | [Repo](https://github.com/lhf12278/DCPNet) | Pretrained |
 | TGRS | 2024 | UTeRM | [Deep Unfolding Tensor Rank Minimization With Generalized Detail Injection for Pansharpening](https://ieeexplore.ieee.org/document/10506713) | [Repo](https://github.com/mtntruong/UTeRM) | Pretrained |
+| TGRS | 2020 | FusionNet | [Detail Injection-Based Deep Convolutional Neural Networks for Pansharpening](https://ieeexplore.ieee.org/abstract/document/9240949) |  |  |
+| JSTARS | 2019 | DiCNN | [Pansharpening via Detail Injection Based Convolutional Neural Networks](https://ieeexplore.ieee.org/abstract/document/8667040) |  |  |
+| ICCV | 2017 | PanNet | [Pannet: A deep network architecture for pan-sharpening](https://openaccess.thecvf.com/content_iccv_2017/html/Yang_PanNet_A_Deep_ICCV_2017_paper.html) |  |  |
+| Remote Sensing | 2016 | PNN | [Pansharpening by Convolutional Neural Networks](https://www.mdpi.com/2072-4292/8/7/594) |  |  |
 |  |  |  |  |  |  |
 
 <hr> <!-- 구분선 -->
