@@ -39,6 +39,7 @@ Additional helpful resources [1](https://github.com/yuanmaoxun/Working-For-Pansh
 | IGARSS | 2025 |  | [Fine-Tuning Adversarially-Robust Transformers for Single-Image Dehazing](https://arxiv.org/abs/2504.17829) | [Repo](https://github.com/Vladimirescu/RobustDehazing) |  |
 | TGRS | 2025 | SGLF | [Cross-Modality Domain Adaptation Based on Semantic Graph Learning: From Optical to SAR Images](https://ieeexplore.ieee.org/abstract/document/10963724) | [Repo](https://github.com/XZhang878/SGLF) |  |
 | TGRS | 2024 | DR-AVIT | [DR-AVIT: Toward Diverse and Realistic Aerial Visible-to-Infrared Image Translation](https://ieeexplore.ieee.org/abstract/document/10540003) | [Repo](https://github.com/silver-hzh/DR-AVIT) |  |
+| TGRS | 2024 | Crs-diff | [CRS-Diff: Controllable Remote Sensing Image Generation With Diffusion Model](https://ieeexplore.ieee.org/abstract/document/10663449) | [Repo](https://github.com/Sonettoo/CRS-Diff) |  |
 |  |  |  |  |  |  |
 
 <hr>
