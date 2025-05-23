@@ -1,6 +1,6 @@
 # Papers with code
 <!-- 줄 바꿈은 문장 끝 스페이스바 두번 -->
-Additional helpful resources [1](https://github.com/yuanmaoxun/Working-For-Pansharpening), [2](https://github.com/yc-cui/Pansharpening-Zoo)
+Additional helpful resources [Repo 1](https://github.com/yuanmaoxun/Working-For-Pansharpening), [Repo 2](https://github.com/yc-cui/Pansharpening-Zoo)
 
 ### Pansharpening
 | Venue | Year | AKA | Paper | Code | Remarks |
@@ -31,7 +31,7 @@ Additional helpful resources [1](https://github.com/yuanmaoxun/Working-For-Pansh
 | Remote Sensing | 2016 | PNN | [Pansharpening by Convolutional Neural Networks](https://www.mdpi.com/2072-4292/8/7/594) |  | Comparison |
 |  |  |  |  |  |  |
 
-Some methods are available at the following locations, [1](https://github.com/codegaj/py_pansharpening), [2](https://github.com/matciotola/hyperspectral_pansharpening_toolbox/blob/main/preambol.yaml), [3](https://github.com/liangjiandeng/DLPan-Toolbox/tree/main/01-DL-toolbox(Pytorch)).  
+Some methods are available at the following locations, [Repo 1](https://github.com/codegaj/py_pansharpening), [Repo 2](https://github.com/matciotola/hyperspectral_pansharpening_toolbox/blob/main/preambol.yaml), [Repo 3](https://github.com/liangjiandeng/DLPan-Toolbox/tree/main/01-DL-toolbox(Pytorch)).  
 
 <hr> <!-- 구분선 -->
 
