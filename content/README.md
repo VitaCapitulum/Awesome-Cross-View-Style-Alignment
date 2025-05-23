@@ -48,5 +48,5 @@ PAN :shape(9714, 1, 64, 64), min(76.4237), max(1988.2261)
 <hr>
 
 ### Comparison
-Traditional methods are available at the following locations, [1](https://github.com/codegaj/py_pansharpening), [2](https://github.com/matciotola/hyperspectral_pansharpening_toolbox/blob/main/preambol.yaml), [3](https://github.com/liangjiandeng/DLPan-Toolbox/tree/main/01-DL-toolbox(Pytorch).  
+Traditional methods are available at the following locations, [1](https://github.com/codegaj/py_pansharpening), [2](https://github.com/matciotola/hyperspectral_pansharpening_toolbox/blob/main/preambol.yaml), [3](https://github.com/liangjiandeng/DLPan-Toolbox/tree/main/01-DL-toolbox(Pytorch)).  
 Here are the [results](../fig/metrics.xlsx) of the investigation into the comparison models used in 11 recent papers.
