@@ -16,19 +16,7 @@ The relevant research papers are available on [this](../README.md) page
 #### Dataset
 Many research papers utilize Gaofen-2(GF2), QuickBird(QB), and WorldView-3(WV3) in their studies. You can download a sample [dataset](https://github.com/liangjiandeng/PanCollection).
 
-#### Basic concepts
-| Term | Explanation | Remarks |
-|----|--------|----|
-| PAN (Panchromatic) | 흑백 이미지로, 넓은 스펙트럼 범위를 하나의 밴드로 수집하여 높은 공간 해상도를 제공 |  |
-| MS (Multispectral) | 여러 개의 스펙트럼 밴드를 가지며 중간 정도의 분광 해상도와 낮은 공간 해상도 |  |
-| HRMS | 고해상도 다중분광 영상으로 PAN의 공간해상도와 MS의 분광해상도를 동시에 갖춘 영상 | 팬샤프닝의 출력 혹은 GT |
-| LRMS | 낮은 공간 해상도의 MS 영상 | 보통 입력용 MS 이미지 |
-| HSI (Hyperspectral Image) | 수십~수백 개의 분광 밴드를 가지는 고분광 이미지 |  |
-| Spatial Resolution | 공간 해상도, 픽셀당 실제 지표의 크기 | 값이 낮을수록 해상도가 좋음 |
-| Spectral Resolution | 분광 해상도, 수집 가능한 밴드 수와 스펙트럼 간격의 정밀도 | 값이 높을수록 더 세분화된 스펙트럼 정보 |
-| Pansharpening | PAN + MS -> 고해상도 다중분광 이미지 생성 |  |
-| Hyper-pansharpening | PAN + HSI -> 고해상도 고분광 이미지 생성 | HRHS |
-|  |  |  |
+<hr>
 
 #### Example visualization of the WV3 train dataset(PanCollection)
 GT : shape(9714, 8, 64, 64), min(0.0000), max(2047.0000)  
@@ -47,6 +35,16 @@ PAN :shape(9714, 1, 64, 64), min(76.4237), max(1988.2261)
 
 <hr>
 
-### Comparison
-Traditional methods are available at the following locations, [1](https://github.com/codegaj/py_pansharpening), [2](https://github.com/matciotola/hyperspectral_pansharpening_toolbox/blob/main/preambol.yaml), [3](https://github.com/liangjiandeng/DLPan-Toolbox/tree/main/01-DL-toolbox(Pytorch)).  
-Here are the [results](../fig/metrics.xlsx) of the investigation into the comparison models used in 11 recent papers.
+#### Basic concepts
+| Term | Explanation | Remarks |
+|----|--------|----|
+| PAN (Panchromatic) | 흑백 이미지로, 넓은 스펙트럼 범위를 하나의 밴드로 수집하여 높은 공간 해상도를 제공 |  |
+| MS (Multispectral) | 여러 개의 스펙트럼 밴드를 가지며 중간 정도의 분광 해상도와 낮은 공간 해상도 |  |
+| HRMS | 고해상도 다중분광 영상으로 PAN의 공간해상도와 MS의 분광해상도를 동시에 갖춘 영상 | 팬샤프닝의 출력 혹은 GT |
+| LRMS | 낮은 공간 해상도의 MS 영상 | 보통 입력용 MS 이미지 |
+| HSI (Hyperspectral Image) | 수십~수백 개의 분광 밴드를 가지는 고분광 이미지 |  |
+| Spatial Resolution | 공간 해상도, 픽셀당 실제 지표의 크기 | 값이 낮을수록 해상도가 좋음 |
+| Spectral Resolution | 분광 해상도, 수집 가능한 밴드 수와 스펙트럼 간격의 정밀도 | 값이 높을수록 더 세분화된 스펙트럼 정보 |
+| Pansharpening | PAN + MS -> 고해상도 다중분광 이미지 생성 |  |
+| Hyper-pansharpening | PAN + HSI -> 고해상도 고분광 이미지 생성 | HRHS |
+|  |  |  |
