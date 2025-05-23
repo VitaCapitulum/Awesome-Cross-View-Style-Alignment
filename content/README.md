@@ -41,8 +41,8 @@ PAN :shape(9714, 1, 64, 64), min(76.4237), max(1988.2261)
 | HSI (Hyperspectral Image) | 수십~수백 개의 분광 밴드를 가지는 고분광 이미지 |  |
 | Spatial Resolution | 공간 해상도, 픽셀당 실제 지표의 크기 | 값이 낮을수록 해상도가 좋음 |
 | Spectral Resolution | 분광 해상도, 수집 가능한 밴드 수와 스펙트럼 간격의 정밀도 | 값이 높을수록 더 세분화된 스펙트럼 정보 |
-| Pansharpening | PAN + MS -> 고해상도 다중분광 이미지 생성 |  |
-| Hyper-pansharpening | PAN + HSI -> 고해상도 고분광 이미지 생성 |  |
+| Pansharpening | PAN + MS → 고해상도 다중분광 이미지 생성 |  |
+| Hyper-pansharpening | PAN + HSI → 고해상도 고분광 이미지 생성 |  |
 | Component Substitution (CS) | MS 이미지를 색상 성분 등으로 분해한 뒤, 그 중 하나를 PAN 이미지로 대체하여 공간 해상도 향상 | IHS, PCA, Brovey |
 | Multiresolution Analysis (MRA) | PAN 이미지에서 다중 스케일 고주파 성분만 추출해서 MS 이미지에 더함 (고주파 → 공간 정보) | Wavelet, Contourlet |
 | Variational Optimization (VO) | 물리적/해석적 모델 기반의 역문제로 정식화 | Sparse Representation, Bayesian Inference |
