@@ -47,13 +47,5 @@ Some methods are available at the following locations, [Repo 1](https://github.c
 
 <hr>
 
-### Spatial Alignment
-| Venue | Year | AKA | Paper | Code | Remarks |
-|-------|------|-----|--------|--------|--------|
-|  |  |  |  |  |  |
-
-<hr>
-
-
 ## Project page
 [here](content/README.md)  
