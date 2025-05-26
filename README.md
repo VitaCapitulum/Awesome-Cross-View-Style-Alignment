@@ -54,6 +54,7 @@ Some methods are available at the following locations, [Repo 1](https://github.c
 | CVPR | 2023 |  | [Null-text Inversion for Editing Real Images using Guided Diffusion Models](https://openaccess.thecvf.com/content/CVPR2023/html/Mokady_NULL-Text_Inversion_for_Editing_Real_Images_Using_Guided_Diffusion_Models_CVPR_2023_paper.html) | [Repo](https://github.com/google/prompt-to-prompt) |  |
 | ICCV | 2023 | ControlNet | [Adding Conditional Control to Text-to-Image Diffusion Models](https://openaccess.thecvf.com/content/ICCV2023/html/Zhang_Adding_Conditional_Control_to_Text-to-Image_Diffusion_Models_ICCV_2023_paper.html) | [Repo](https://github.com/faverogian/controlNet) |  |
 | ICLR | 2022 | LoRA | [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/pdf/2106.09685v1/1000) | [Repo](https://github.com/microsoft/LoRA) |  |
+|  | 2022 |  | [Prompt-to-Prompt Image Editing with Cross Attention Control](https://arxiv.org/abs/2208.01626) | [Repo](https://github.com/google/prompt-to-prompt) | Google |
 |  |  |  |  |  |  |
 
 <hr>
