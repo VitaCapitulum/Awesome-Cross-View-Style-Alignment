@@ -30,7 +30,7 @@ Additional helpful resources [Repo 1](https://github.com/yuanmaoxun/Working-For-
 | Remote Sensing | 2016 | PNN | [Pansharpening by Convolutional Neural Networks](https://www.mdpi.com/2072-4292/8/7/594) |  | Comparison |
 |  |  |  |  |  |  |
 
-Some methods are available at the following locations, [Repo 1](https://github.com/codegaj/py_pansharpening), [Repo 2](https://github.com/matciotola/hyperspectral_pansharpening_toolbox/blob/main/preambol.yaml), [Repo 3](https://github.com/liangjiandeng/DLPan-Toolbox/tree/main/01-DL-toolbox(Pytorch)).  
+Some methods are available at the following locations, [Repo 1](https://github.com/codegaj/py_pansharpening), [Repo 2](https://github.com/matciotola/hyperspectral_pansharpening_toolbox/blob/main/preambol.yaml), [Repo 3](https://github.com/liangjiandeng/DLPan-Toolbox/tree/main/01-DL-toolbox(Pytorch)), [Repo 4](https://github.com/XavierJiezou/Pansharpening)
 
 <hr> <!-- 구분선 -->
 
