@@ -32,9 +32,10 @@ PAN :shape(9714, 1, 64, 64), min(76.4237), max(1988.2261)
 </p>  
 
 #### Example visualization of the WV3 train dataset(PanBench)
-NIR : 256 x 256
-MS : 256 x 256
-PAN : 1024 x 1024
+PAN : 1024 x 1024  
+NIR : 256 x 256  
+RGB : 256 x 256  
+
 <p align="center">
   <img src="../fig/PanBench_WV3.png" style="width:100%;">
 </p> 
