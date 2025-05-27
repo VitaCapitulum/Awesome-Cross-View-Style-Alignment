@@ -14,7 +14,7 @@ The relevant research papers are available on [this](../README.md) page
 
 ### Background
 #### Dataset
-Many research papers utilize Gaofen-2(GF2), QuickBird(QB), and WorldView-3(WV3) in their studies. You can download a sample [dataset](https://github.com/liangjiandeng/PanCollection).
+Many research papers utilize Gaofen-2(GF2), QuickBird(QB), and WorldView-3(WV3) in their studies. You can download a sample [PanCollection](https://github.com/liangjiandeng/PanCollection) or [PanBench](https://github.com/XavierJiezou/Pansharpening)
 
 #### Example visualization of the WV3 train dataset(PanCollection)
 GT : shape(9714, 8, 64, 64), min(0.0000), max(2047.0000)  
@@ -30,6 +30,14 @@ PAN :shape(9714, 1, 64, 64), min(76.4237), max(1988.2261)
 <p align="center">
   <img src="../fig/grid_2.png" style="width:100%;">
 </p>  
+
+#### Example visualization of the WV3 train dataset(PanBench)
+NIR : 256 x 256
+MS : 256 x 256
+PAN : 1024 x 1024
+<p align="center">
+  <img src="../fig/PanBench_WV3.png" style="width:100%;">
+</p> 
 
 <hr>
 
