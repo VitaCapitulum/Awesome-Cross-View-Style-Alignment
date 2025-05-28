@@ -43,5 +43,5 @@ RGB : 567 x 3 x 256 x 256
 
 <hr>
 
-#### Model Architecture
+#### Expected pipeline
 
