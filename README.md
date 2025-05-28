@@ -60,4 +60,4 @@ Some methods are available at the following locations, [Repo 1](https://github.c
 <hr>
 
 ## Project page
-[here](content/README.md)  
+You can check the detailed process of our project [here](content/README.md)
