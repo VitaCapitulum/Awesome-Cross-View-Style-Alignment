@@ -1,5 +1,5 @@
 # Overview
-This page outlines the research procedure and the required [template]([https://www.overleaf.com/2777621724xcrtxfftdmty#9fd14f](https://ko.overleaf.com/5911322733rbvbvbcxsnwb#5cca8a))  
+This page outlines the research procedure and the required [TGRS template](https://ko.overleaf.com/5911322733rbvbvbcxsnwb#5cca8a)  
 The relevant research papers are available on [this](../README.md) page
 
 ## Key challenge
