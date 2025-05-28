@@ -34,7 +34,7 @@ Some methods are available at the following locations, [Repo 1](https://github.c
 
 <hr> <!-- 구분선 -->
 
-### Remote Sensing I2I via Generative Models
+### Remote Sensing I2I
 | Venue | Year | AKA | Paper | Code | Remarks |
 |-------|------|-----|--------|--------|--------|
 | TGRS | 2025 | SGLF | [Cross-Modality Domain Adaptation Based on Semantic Graph Learning: From Optical to SAR Images](https://ieeexplore.ieee.org/abstract/document/10963724) | [Repo](https://github.com/XZhang878/SGLF) |  |
@@ -46,7 +46,7 @@ Some methods are available at the following locations, [Repo 1](https://github.c
 
 <hr>
 
-### Diffusion Fine-tunning
+### Diffusion Fine-tunning Methods
 | Venue | Year | AKA | Paper | Code | Remarks |
 |-------|------|-----|--------|--------|--------|
 | AAAI | 2024 | T2i-adapter | [T2I-Adapter: Learning Adapters to Dig Out More Controllable Ability for Text-to-Image Diffusion Models](https://ojs.aaai.org/index.php/AAAI/article/view/28226) | [Repo](https://github.com/TencentARC/T2I-Adapter) |  |
