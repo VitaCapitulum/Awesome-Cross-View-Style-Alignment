@@ -41,6 +41,7 @@ Some methods are available at the following locations, [Repo 1](https://github.c
 | Remote Sensing | 2025 | RSDiffSR | [Taming a Diffusion Model to Revitalize Remote Sensing Image Super-Resolution](https://www.mdpi.com/2072-4292/17/8/1348#:~:text=conditional%20diffusion%20model%20incorporating%20low,is%20known%20for%20its%20robust) |  |  |
 | TGRS | 2024 | DR-AVIT | [DR-AVIT: Toward Diverse and Realistic Aerial Visible-to-Infrared Image Translation](https://ieeexplore.ieee.org/abstract/document/10540003) | [Repo](https://github.com/silver-hzh/DR-AVIT) |  |
 | TGRS | 2024 | Crs-diff | [CRS-Diff: Controllable Remote Sensing Image Generation With Diffusion Model](https://ieeexplore.ieee.org/abstract/document/10663449) | [Repo](https://github.com/Sonettoo/CRS-Diff) |  |
+| TGRS | 2024 | CDDR | [Single Domain Generalization Method for Remote Sensing Image Segmentation via Category Consistency on Domain Randomization](https://ieeexplore.ieee.org/abstract/document/10476506) | [Repo](https://github.com/LCB1970/CCDR) |  |
 |  | 2024 |  | [Accelerating Diffusion for SAR-to-Optical Image Translation via Adversarial Consistency Distillation](https://arxiv.org/abs/2407.06095) | [Repo](https://github.com/Coordi777/ACD_S2ODPM) |  |
 |  |  |  |  |  |  |
 
@@ -50,7 +51,6 @@ Some methods are available at the following locations, [Repo 1](https://github.c
 | Venue | Year | AKA | Paper | Code | Remarks |
 |-------|------|-----|--------|--------|--------|
 | AAAI | 2024 | T2i-adapter | [T2I-Adapter: Learning Adapters to Dig Out More Controllable Ability for Text-to-Image Diffusion Models](https://ojs.aaai.org/index.php/AAAI/article/view/28226) | [Repo](https://github.com/TencentARC/T2I-Adapter) |  |
-| TGRS | 2024 | CDDR | [Single Domain Generalization Method for Remote Sensing Image Segmentation via Category Consistency on Domain Randomization](https://ieeexplore.ieee.org/abstract/document/10476506) | [Repo](https://github.com/LCB1970/CCDR) |  |
 | CVPR | 2023 | Dreambooth | [DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation](https://openaccess.thecvf.com/content/CVPR2023/html/Ruiz_DreamBooth_Fine_Tuning_Text-to-Image_Diffusion_Models_for_Subject-Driven_Generation_CVPR_2023_paper.html) | [Repo](https://github.com/google/dreambooth) |  |
 | CVPR | 2023 |  | [Null-text Inversion for Editing Real Images using Guided Diffusion Models](https://openaccess.thecvf.com/content/CVPR2023/html/Mokady_NULL-Text_Inversion_for_Editing_Real_Images_Using_Guided_Diffusion_Models_CVPR_2023_paper.html) | [Repo](https://github.com/google/prompt-to-prompt) |  |
 | ICCV | 2023 | ControlNet | [Adding Conditional Control to Text-to-Image Diffusion Models](https://openaccess.thecvf.com/content/ICCV2023/html/Zhang_Adding_Conditional_Control_to_Text-to-Image_Diffusion_Models_ICCV_2023_paper.html) | [Repo](https://github.com/faverogian/controlNet) |  |
