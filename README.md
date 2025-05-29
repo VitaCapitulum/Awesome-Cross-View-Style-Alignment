@@ -37,9 +37,8 @@ Some methods are available at the following locations, [Repo 1](https://github.c
 ### Remote Sensing I2I
 | Venue | Year | AKA | Paper | Code | Remarks |
 |-------|------|-----|--------|--------|--------|
-| TGRS | 2025 | SGLF | [Cross-Modality Domain Adaptation Based on Semantic Graph Learning: From Optical to SAR Images](https://ieeexplore.ieee.org/abstract/document/10963724) | [Repo](https://github.com/XZhang878/SGLF) |  |
 | Remote Sensing | 2025 | RSDiffSR | [Taming a Diffusion Model to Revitalize Remote Sensing Image Super-Resolution](https://www.mdpi.com/2072-4292/17/8/1348#:~:text=conditional%20diffusion%20model%20incorporating%20low,is%20known%20for%20its%20robust) |  |  |
-| TGRS | 2024 | DR-AVIT | [DR-AVIT: Toward Diverse and Realistic Aerial Visible-to-Infrared Image Translation](https://ieeexplore.ieee.org/abstract/document/10540003) | [Repo](https://github.com/silver-hzh/DR-AVIT) |  |
+| TGRS | 2024 | DR-AVIT | [DR-AVIT: Toward Diverse and Realistic Aerial Visible-to-Infrared Image Translation](https://ieeexplore.ieee.org/abstract/document/10540003) | [Repo](https://github.com/silver-hzh/DR-AVIT) | AVIT, GAN |
 | TGRS | 2024 | Crs-diff | [CRS-Diff: Controllable Remote Sensing Image Generation With Diffusion Model](https://ieeexplore.ieee.org/abstract/document/10663449) | [Repo](https://github.com/Sonettoo/CRS-Diff) |  |
 | TGRS | 2024 | CDDR | [Single Domain Generalization Method for Remote Sensing Image Segmentation via Category Consistency on Domain Randomization](https://ieeexplore.ieee.org/abstract/document/10476506) | [Repo](https://github.com/LCB1970/CCDR) |  |
 |  | 2024 |  | [Accelerating Diffusion for SAR-to-Optical Image Translation via Adversarial Consistency Distillation](https://arxiv.org/abs/2407.06095) | [Repo](https://github.com/Coordi777/ACD_S2ODPM) |  |
