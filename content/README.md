@@ -32,7 +32,7 @@ PAN :shape(9714, 1, 64, 64), min(76.4237), max(1988.2261)
   <img src="../fig/grid_2.png" style="width:100%;">
 </p>  
 
-#### Example visualization of the WV3 train dataset(PanBench)
+#### Example visualization of the WV3 dataset(PanBench)
 PAN : 567 x 1 x 1024 x 1024  
 NIR : 567 x 1 x 256 x 256  
 RGB : 567 x 3 x 256 x 256  
