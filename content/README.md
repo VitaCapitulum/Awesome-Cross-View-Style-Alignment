@@ -43,5 +43,7 @@ RGB : 567 x 3 x 256 x 256
 
 <hr>
 
-#### Expected pipeline
-
+#### Expected Architecture
+<p align="center">
+  <img src="../fig/overview.png" style="width:100%;">
+</p> 
