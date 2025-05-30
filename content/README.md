@@ -17,7 +17,7 @@ The relevant research papers are available on [previous](../README.md) page
 Many research papers utilize Gaofen-2(GF2), QuickBird(QB), and WorldView-3(WV3) in their studies  
 You can download a sample [PanCollection](https://github.com/liangjiandeng/PanCollection) or [PanBench](https://github.com/XavierJiezou/Pansharpening)
 
-#### Example visualization of the WV3 train dataset(PanCollection)
+#### Sample of the WV3 train dataset(PanCollection)
 GT : shape(9714, 8, 64, 64), min(0.0000), max(2047.0000)  
 LMS : shape(9714, 8, 64, 64), min(-222.5743), max(2323.9167)  
 MS : shape(9714, 8, 16, 16), min(25.4855), max(1997.7802)  
