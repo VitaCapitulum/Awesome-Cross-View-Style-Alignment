@@ -44,7 +44,7 @@ Some methods are available at the following locations, [Repo 1](https://github.c
 
 <hr>
 
-### Remote Sensing Image Registration
+### Remote Sensing Image Registration(Geometric Alignment)
 | Venue | Year | AKA | Paper | Code | Remarks |
 |-------|------|-----|--------|--------|--------|
 | TGRS | 2024 | ADRNet | [ADRNet: Affine and Deformable Registration Networks for Multimodal Remote Sensing Images](https://ieeexplore.ieee.org/abstract/document/10459210) | [Repo](https://github.com/Ahuer-Lei/ADRNet) |  |
