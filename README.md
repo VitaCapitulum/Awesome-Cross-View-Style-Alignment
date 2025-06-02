@@ -48,6 +48,8 @@ Some methods are available at the following locations, [Repo 1](https://github.c
 | Venue | Year | AKA | Paper | Code | Remarks |
 |-------|------|-----|--------|--------|--------|
 | TGRS | 2024 | ADRNet | [ADRNet: Affine and Deformable Registration Networks for Multimodal Remote Sensing Images](https://ieeexplore.ieee.org/abstract/document/10459210) | [Repo](https://github.com/Ahuer-Lei/ADRNet) |  |
+| TGRS | 2022 | MU-Net | [A Multiscale Framework With Unsupervised Learning for Remote Sensing Image Registration](https://ieeexplore.ieee.org/abstract/document/9758703) | [Repo](https://github.com/yeyuanxin110/MU-Net) |  |
+| ISPRS | 2021 |  | [A deep learning semantic template matching framework for remote sensing image registration](https://www.sciencedirect.com/science/article/pii/S0924271621002446?ref=pdf_download&fr=RR-2&rr=949418dc9bb3d1e1) | [Repo](https://github.com/liliangzhi110/semantictemplatematching) |  |
 |  |  |  |  |  |  |
 
 <hr>
