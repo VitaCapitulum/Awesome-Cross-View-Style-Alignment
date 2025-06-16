@@ -1,8 +1,10 @@
-# Papers with code
+# Awesome Domain Style Alignment
 <!-- 줄 바꿈은 문장 끝 스페이스바 두번 -->
-Additional helpful resources [Repo 1](https://github.com/yuanmaoxun/Working-For-Pansharpening), [Repo 2](https://github.com/yc-cui/Pansharpening-Zoo)
 
 ### Pansharpening(include Hyper-pans)
+Additional helpful resources [Repo 1](https://github.com/yuanmaoxun/Working-For-Pansharpening), [Repo 2](https://github.com/yc-cui/Pansharpening-Zoo)
+
+#### Papers with code
 | Venue | Year | AKA | Paper | Code | Remarks |
 |-------|------|-----|--------|--------|--------|
 | AAAI | 2025 | MFFA | [Wavelet-Assisted Multi-Frequency Attention Network for Pansharpening](https://ojs.aaai.org/index.php/AAAI/article/view/32381) | [Repo](https://github.com/Jie-1203/WFANet) | Pretrained |
@@ -28,9 +30,7 @@ Additional helpful resources [Repo 1](https://github.com/yuanmaoxun/Working-For-
 
 Some methods are available at the following locations, [Repo 1](https://github.com/codegaj/py_pansharpening), [Repo 2](https://github.com/matciotola/hyperspectral_pansharpening_toolbox/blob/main/preambol.yaml), [Repo 3](https://github.com/liangjiandeng/DLPan-Toolbox/tree/main/01-DL-toolbox(Pytorch)), [Repo 4](https://github.com/XavierJiezou/Pansharpening)
 
-<hr> <!-- 구분선 -->
-
-### Pansharpening(Only Diffusion)
+#### Only Diffusion
 | Venue | Year | AKA | Paper | Code | Remarks |
 |-------|------|-----|--------|--------|--------|
 | NeurlPS | 2024 | SSDiff | [SSDiff: Spatial-spectral Integrated Diffusion Model for Remote Sensing Pansharpening](https://proceedings.neurips.cc/paper_files/paper/2024/hash/8e851181b937e2c519ff4c9adbe32be8-Abstract-Conference.html) | [Repo](https://github.com/Z-ypnos/SSDiff_main) |  |
@@ -41,7 +41,7 @@ Some methods are available at the following locations, [Repo 1](https://github.c
 | TGRS | 2023 | PanDiff | [PanDiff: A Novel Pansharpening Method Based on Denoising Diffusion Probabilistic Model](https://ieeexplore.ieee.org/abstract/document/10136205) |  |  |
 |  |  |  |  |  |  |
 
-<hr>
+<hr> <!-- 구분선 -->
 
 ### Remote Sensing I2I
 | Venue | Year | AKA | Paper | Code | Remarks |
