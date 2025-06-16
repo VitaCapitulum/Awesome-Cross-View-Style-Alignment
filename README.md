@@ -65,6 +65,8 @@ Some methods are available at the following locations, [Repo 1](https://github.c
 |  | 2022 |  | [Prompt-to-Prompt Image Editing with Cross Attention Control](https://arxiv.org/abs/2208.01626) | [Repo](https://github.com/google/prompt-to-prompt) | Google |
 |  |  |  |  |  |  |
 
+<hr>
+
 ### Dataset
 Many research papers utilize Gaofen-2(GF2), QuickBird(QB), and WorldView-3(WV3) in their studies  
 You can download a sample [PanCollection](https://github.com/liangjiandeng/PanCollection) or [PanBench](https://github.com/XavierJiezou/Pansharpening)
