@@ -75,13 +75,13 @@ LMS : shape(9714, 8, 64, 64), min(-222.5743), max(2323.9167)
 MS : shape(9714, 8, 16, 16), min(25.4855), max(1997.7802)  
 PAN :shape(9714, 1, 64, 64), min(76.4237), max(1988.2261)  
 <p align="center">
-  <img src="../fig/grid_0.png" style="width:100%;">
+  <img src="fig/grid_0.png" style="width:100%;">
 </p>  
 <p align="center">
-  <img src="../fig/grid_1.png" style="width:100%;">
+  <img src="fig/grid_1.png" style="width:100%;">
 </p>  
 <p align="center">
-  <img src="../fig/grid_2.png" style="width:100%;">
+  <img src="fig/grid_2.png" style="width:100%;">
 </p>  
 
 #### Sample of the WV3 train dataset (PanBench)
@@ -90,7 +90,7 @@ NIR : 567 x 1 x 256 x 256
 RGB : 567 x 3 x 256 x 256  
 
 <p align="center">
-  <img src="../fig/PanBench_WV3.png" style="width:100%;">
+  <img src="fig/PanBench_WV3.png" style="width:100%;">
 </p> 
 
 <hr>
