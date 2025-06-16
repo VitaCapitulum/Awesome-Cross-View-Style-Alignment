@@ -1,10 +1,10 @@
 # Awesome Domain Style Alignment
 <!-- 줄 바꿈은 문장 끝 스페이스바 두번 -->
 
-### Pansharpening(include Hyper-pans)
+## Pansharpening(include Hyper-pans)
 Additional helpful resources [Repo 1](https://github.com/yuanmaoxun/Working-For-Pansharpening), [Repo 2](https://github.com/yc-cui/Pansharpening-Zoo)
 
-#### Papers with code
+### Papers with code
 | Venue | Year | AKA | Paper | Code | Remarks |
 |-------|------|-----|--------|--------|--------|
 | AAAI | 2025 | MFFA | [Wavelet-Assisted Multi-Frequency Attention Network for Pansharpening](https://ojs.aaai.org/index.php/AAAI/article/view/32381) | [Repo](https://github.com/Jie-1203/WFANet) | Pretrained |
@@ -30,7 +30,7 @@ Additional helpful resources [Repo 1](https://github.com/yuanmaoxun/Working-For-
 
 Some methods are available at the following locations, [Repo 1](https://github.com/codegaj/py_pansharpening), [Repo 2](https://github.com/matciotola/hyperspectral_pansharpening_toolbox/blob/main/preambol.yaml), [Repo 3](https://github.com/liangjiandeng/DLPan-Toolbox/tree/main/01-DL-toolbox(Pytorch)), [Repo 4](https://github.com/XavierJiezou/Pansharpening)
 
-#### Only Diffusion
+### Only Diffusion
 | Venue | Year | AKA | Paper | Code | Remarks |
 |-------|------|-----|--------|--------|--------|
 | NeurlPS | 2024 | SSDiff | [SSDiff: Spatial-spectral Integrated Diffusion Model for Remote Sensing Pansharpening](https://proceedings.neurips.cc/paper_files/paper/2024/hash/8e851181b937e2c519ff4c9adbe32be8-Abstract-Conference.html) | [Repo](https://github.com/Z-ypnos/SSDiff_main) |  |
@@ -43,7 +43,7 @@ Some methods are available at the following locations, [Repo 1](https://github.c
 
 <hr> <!-- 구분선 -->
 
-### Remote Sensing I2I
+## Remote Sensing I2I
 | Venue | Year | AKA | Paper | Code | Remarks |
 |-------|------|-----|--------|--------|--------|
 | Remote Sensing | 2025 | RSDiffSR | [Taming a Diffusion Model to Revitalize Remote Sensing Image Super-Resolution](https://www.mdpi.com/2072-4292/17/8/1348#:~:text=conditional%20diffusion%20model%20incorporating%20low,is%20known%20for%20its%20robust) |  | Super-Resolution |
@@ -53,7 +53,7 @@ Some methods are available at the following locations, [Repo 1](https://github.c
 
 <hr>
 
-### Remote Sensing Image Registration(Geometric Alignment)
+## Remote Sensing Image Registration(Geometric Alignment)
 | Venue | Year | AKA | Paper | Code | Remarks |
 |-------|------|-----|--------|--------|--------|
 | TGRS | 2024 | ADRNet | [ADRNet: Affine and Deformable Registration Networks for Multimodal Remote Sensing Images](https://ieeexplore.ieee.org/abstract/document/10459210) | [Repo](https://github.com/Ahuer-Lei/ADRNet) |  |
@@ -65,7 +65,7 @@ Some methods are available at the following locations, [Repo 1](https://github.c
 
 <hr>
 
-### Diffusion Fine-tunning Methods
+## Diffusion Fine-tunning Methods
 | Venue | Year | AKA | Paper | Code | Remarks |
 |-------|------|-----|--------|--------|--------|
 | AAAI | 2024 | T2i-adapter | [T2I-Adapter: Learning Adapters to Dig Out More Controllable Ability for Text-to-Image Diffusion Models](https://ojs.aaai.org/index.php/AAAI/article/view/28226) | [Repo](https://github.com/TencentARC/T2I-Adapter) |  |
@@ -78,11 +78,11 @@ Some methods are available at the following locations, [Repo 1](https://github.c
 
 <hr>
 
-### Dataset
+## Dataset
 Many research papers utilize Gaofen-2(GF2), QuickBird(QB), and WorldView-3(WV3) in their studies  
 You can download a sample [PanCollection](https://github.com/liangjiandeng/PanCollection) or [PanBench](https://github.com/XavierJiezou/Pansharpening)
 
-#### Example visualization of the WV3 dataset(PanCollection)
+### Example visualization of the WV3 dataset(PanCollection)
 GT : shape(9714, 8, 64, 64), min(0.0000), max(2047.0000)  
 LMS : shape(9714, 8, 64, 64), min(-222.5743), max(2323.9167)  
 MS : shape(9714, 8, 16, 16), min(25.4855), max(1997.7802)  
@@ -97,7 +97,7 @@ PAN :shape(9714, 1, 64, 64), min(76.4237), max(1988.2261)
   <img src="fig/grid_2.png" style="width:100%;">
 </p>  
 
-#### Sample of the WV3 train dataset (PanBench)
+### Sample of the WV3 train dataset (PanBench)
 PAN : 567 x 1 x 1024 x 1024  
 NIR : 567 x 1 x 256 x 256  
 RGB : 567 x 3 x 256 x 256  
@@ -108,5 +108,5 @@ RGB : 567 x 3 x 256 x 256
 
 <hr>
 
-## Project page
+# Project page
 You can check the detailed process of our project [here](content/README.md)
