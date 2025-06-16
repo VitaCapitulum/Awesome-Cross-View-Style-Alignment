@@ -14,14 +14,20 @@ Additional helpful resources [Repo 1](https://github.com/yuanmaoxun/Working-For-
 ### Only Diffusion
 | Venue | Year | AKA | Paper | Code | Remarks |
 |-------|------|-----|--------|--------|--------|
+| TIM | 2025 | IRR-DiffSR | [Efficient High-Frequency Texture Recovery Diffusion Model for Remote Sensing Image Super-Resolution](https://ieeexplore.ieee.org/abstract/document/10947187) | [Repo](https://github.com/55Dupup/IRR-DiffSR) |  |
+| ISPRS JPRS | 2025 | SGDM | [Semantic guided large scale factor remote sensing image super-resolution with generative diffusion prior](https://www.sciencedirect.com/science/article/pii/S0924271624004714) | [Repo](https://github.com/wwangcece/SGDM) |  |
 | NeurlPS | 2024 | SSDiff | [SSDiff: Spatial-spectral Integrated Diffusion Model for Remote Sensing Pansharpening](https://proceedings.neurips.cc/paper_files/paper/2024/hash/8e851181b937e2c519ff4c9adbe32be8-Abstract-Conference.html) | [Repo](https://github.com/Z-ypnos/SSDiff_main) |  |
 | TIP | 2024 | CrossDiff | [CrossDiff: Exploring Self-Supervised Representation of Pansharpening via Cross-Predictive Diffusion Model](https://ieeexplore.ieee.org/abstract/document/10685062) | [Repo](https://github.com/codgodtao/CrossDiff) |  |
 | TGRS | 2024 | HLF-GDiffusion | [High-Low-Frequency Progressive-Guided Diffusion Model for PAN and MS Classification](https://ieeexplore.ieee.org/abstract/document/10589720) | [Repo](https://github.com/Xidian-AIGroup190726/HLF-GDiffusion) |  |
+| TGRS | 2024 | FastDiffSR | [A Conditional Diffusion Model With Fast Sampling Strategy for Remote Sensing Image Super-Resolution](https://ieeexplore.ieee.org/abstract/document/10677485) | [Repo](https://github.com/Meng-333/FastDiffSR) |  |
 | Information Fusion | 2024 | PLRDiff | [Unsupervised hyperspectral pansharpening via low-rank diffusion model](https://www.sciencedirect.com/science/article/pii/S1566253524001039) | [Repo](https://github.com/earth-insights/PLRDiff) | Pretrained |
 | Information Fusion | 2024 | Dif-PAN | [Diffusion model with disentangled modulations for sharpening multispectral and hyperspectral images](https://www.sciencedirect.com/science/article/pii/S1566253523004748) | [Repo](https://github.com/294coder/Dif-PAN) |  |
+| ISPRS JPRS | 2024 | EVADM | [Effective variance attention-enhanced diffusion model for crop field aerial image super resolution](https://www.sciencedirect.com/science/article/pii/S0924271624003289) | [Repo](https://github.com/HobbitArmy/EVADM) |  |
 | TGRS | 2023 | PanDiff | [PanDiff: A Novel Pansharpening Method Based on Denoising Diffusion Probabilistic Model](https://ieeexplore.ieee.org/abstract/document/10136205) |  |  |
+| ICCV | 2023 | HSR-Diff | [HSR-Diff: Hyperspectral Image Super-Resolution via Conditional Diffusion Models](https://openaccess.thecvf.com/content/ICCV2023/html/Wu_HSR-Diff_Hyperspectral_Image_Super-Resolution_via_Conditional_Diffusion_Models_ICCV_2023_paper.html) |  |  |
+| GRSL | 2023 | LWTDM | [Efficient Remote Sensing Image Super-Resolution via Lightweight Diffusion Models](https://ieeexplore.ieee.org/abstract/document/10325535) | [Repo](https://github.com/Suanmd/LWTDM) |  |
+| TGRS | 2023 | EDiffSR | [EDiffSR: An Efficient Diffusion Probabilistic Model for Remote Sensing Image Super-Resolution](https://ieeexplore.ieee.org/abstract/document/10353979) | [Repo](https://github.com/XY-boy/EDiffSR) |  |
 |  |  |  |  |  |  |
-
 
 ### Papers with Pretrained
 | Venue | Year | AKA | Paper | Code | Remarks |
