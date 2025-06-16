@@ -1,10 +1,11 @@
 # Papers with Code
 <!-- 줄 바꿈은 문장 끝 스페이스바 두번 -->
 
-## Project page
-You can check the detailed process of our project [here](content/README.md)
+This page provides an overview of key topics related to Domain Style Alignment along with representative papers. 
+It also includes a summary of widely used datasets in the field of Remote Sensing. 
+You can find more details about our project [here](content/README.md).
 
-<hr>
+<hr> <!-- 줄바꿈-->
 
 ## Pansharpening(include Hyper-pans)
 Additional helpful resources [Repo 1](https://github.com/yuanmaoxun/Working-For-Pansharpening), [Repo 2](https://github.com/yc-cui/Pansharpening-Zoo)
