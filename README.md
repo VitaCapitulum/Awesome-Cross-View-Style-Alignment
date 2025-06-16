@@ -1,10 +1,10 @@
-# Awesome Domain Style Alignment
+# Awesome Domain Style Alignment Papers with Code
 <!-- 줄 바꿈은 문장 끝 스페이스바 두번 -->
 
 ## Pansharpening(include Hyper-pans)
 Additional helpful resources [Repo 1](https://github.com/yuanmaoxun/Working-For-Pansharpening), [Repo 2](https://github.com/yc-cui/Pansharpening-Zoo)
 
-### Papers with code
+### Pretrained provided & Suvery
 | Venue | Year | AKA | Paper | Code | Remarks |
 |-------|------|-----|--------|--------|--------|
 | AAAI | 2025 | MFFA | [Wavelet-Assisted Multi-Frequency Attention Network for Pansharpening](https://ojs.aaai.org/index.php/AAAI/article/view/32381) | [Repo](https://github.com/Jie-1203/WFANet) | Pretrained |
