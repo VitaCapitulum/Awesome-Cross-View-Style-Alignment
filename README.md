@@ -3,7 +3,7 @@
 
 This page provides an overview of key topics related to Domain Style Alignment along with representative papers. 
 It also includes a summary of widely used datasets in the field of Remote Sensing. 
-You can find more details about our project [here](content/README.md).
+Our own research related to this topic can be found [here](content/README.md).
 
 <hr> <!-- 줄바꿈-->
 
