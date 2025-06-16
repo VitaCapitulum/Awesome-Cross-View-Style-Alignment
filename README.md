@@ -1,9 +1,7 @@
 # Papers with Code
 <!-- 줄 바꿈은 문장 끝 스페이스바 두번 -->
 
-<hr> <!-- 구분선 -->
-
-# Project page
+## Project page
 You can check the detailed process of our project [here](content/README.md)
 
 <hr>
