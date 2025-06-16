@@ -31,12 +31,15 @@ Some methods are available at the following locations, [Repo 1](https://github.c
 <hr> <!-- 구분선 -->
 
 ### Pansharpening(Only Diffusion)
+| Venue | Year | AKA | Paper | Code | Remarks |
+|-------|------|-----|--------|--------|--------|
 | NeurlPS | 2024 | SSDiff | [SSDiff: Spatial-spectral Integrated Diffusion Model for Remote Sensing Pansharpening](https://proceedings.neurips.cc/paper_files/paper/2024/hash/8e851181b937e2c519ff4c9adbe32be8-Abstract-Conference.html) | [Repo](https://github.com/Z-ypnos/SSDiff_main) |  |
 | TIP | 2024 | CrossDiff | [CrossDiff: Exploring Self-Supervised Representation of Pansharpening via Cross-Predictive Diffusion Model](https://ieeexplore.ieee.org/abstract/document/10685062) | [Repo](https://github.com/codgodtao/CrossDiff) |  |
 | TGRS | 2024 | HLF-GDiffusion | [High-Low-Frequency Progressive-Guided Diffusion Model for PAN and MS Classification](https://ieeexplore.ieee.org/abstract/document/10589720) | [Repo](https://github.com/Xidian-AIGroup190726/HLF-GDiffusion) |  |
 | Information Fusion | 2024 | PLRDiff | [Unsupervised hyperspectral pansharpening via low-rank diffusion model](https://www.sciencedirect.com/science/article/pii/S1566253524001039) | [Repo](https://github.com/earth-insights/PLRDiff) | Pretrained |
 | Information Fusion | 2024 | Dif-PAN | [Diffusion model with disentangled modulations for sharpening multispectral and hyperspectral images](https://www.sciencedirect.com/science/article/pii/S1566253523004748) | [Repo](https://github.com/294coder/Dif-PAN) |  |
 | TGRS | 2023 | PanDiff | [PanDiff: A Novel Pansharpening Method Based on Denoising Diffusion Probabilistic Model](https://ieeexplore.ieee.org/abstract/document/10136205) |  |  |
+|  |  |  |  |  |  |
 
 <hr>
 
