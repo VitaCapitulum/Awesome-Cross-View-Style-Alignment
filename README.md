@@ -1,4 +1,4 @@
-# Awesome Domain Style Alignment Papers with Code
+# Papers with Code
 <!-- 줄 바꿈은 문장 끝 스페이스바 두번 -->
 
 ## Pansharpening(include Hyper-pans)
@@ -32,17 +32,17 @@ Additional helpful resources [Repo 1](https://github.com/yuanmaoxun/Working-For-
 ### Papers with Pretrained
 | Venue | Year | AKA | Paper | Code | Remarks |
 |-------|------|-----|--------|--------|--------|
-| AAAI | 2025 | MFFA | [Wavelet-Assisted Multi-Frequency Attention Network for Pansharpening](https://ojs.aaai.org/index.php/AAAI/article/view/32381) | [Repo](https://github.com/Jie-1203/WFANet) | Pretrained |
-| CVPR | 2025 | ADWM | [A General Adaptive Dual-level Weighting Mechanism for Remote Sensing Pansharpening](https://arxiv.org/abs/2503.13214) | [Repo](https://github.com/Jie-1203/ADWM) | Pretrained |
-| CVPR | 2025 | ARConv | [Adaptive Rectangular Convolution for Remote Sensing Pansharpening](https://arxiv.org/abs/2503.00467) | [Repo](https://github.com/WangXueyang-uestc/ARConv) | Pretrained |
-| CVPR | 2024 | CANConv | [Content-Adaptive Non-Local Convolution for Remote Sensing Pansharpening](https://arxiv.org/abs/2404.07543) | [Repo](https://github.com/duanyll/CANConv) | Pretrained |
-| AAAI | 2024 | DISPNet | [Deep Unfolded Network with Intrinsic Supervision for Pan-Sharpening](https://ojs.aaai.org/index.php/AAAI/article/view/28350) | [Repo](https://github.com/Baixuzx7/DISPNet) | Pretrained |
-| TGRS | 2024 | UCGAN | [Unsupervised Pansharpening Based on Double-Cycle Consistency](https://ieeexplore.ieee.org/abstract/document/10457556) | [Repo](https://github.com/zhysora/UCGAN) | Pretrained |
-| IJCB | 2024 | DCINN | [A General Paradigm with Detail-Preserving Conditional Invertible Network for Image Fusion](https://link.springer.com/article/10.1007/s11263-023-01924-5) | [Repo](https://github.com/wwhappylife/DCINN) | Pretrained |
-| TGRS | 2024 | DCPNet | [DCPNet: A Dual-Task Collaborative Promotion Network for Pansharpening](https://ieeexplore.ieee.org/abstract/document/10473165) | [Repo](https://github.com/lhf12278/DCPNet) | Pretrained |
-| TGRS | 2024 | UTeRM | [Deep Unfolding Tensor Rank Minimization With Generalized Detail Injection for Pansharpening](https://ieeexplore.ieee.org/document/10506713) | [Repo](https://github.com/mtntruong/UTeRM) | Pretrained |
-| ACM MM | 2023 | U2Net | [U2Net: A General Framework with Spatial-Spectral-Integrated Double U-Net for Image Fusion](https://dl.acm.org/doi/abs/10.1145/3581783.3612084) | [Repo](https://github.com/PSRben/U2Net) | Pretrained |
-| CVPR | 2022 | HyperTransformer | [HyperTransformer: A Textural and Spectral Feature Fusion Transformer for Pansharpening](https://openaccess.thecvf.com/content/CVPR2022/html/Bandara_HyperTransformer_A_Textural_and_Spectral_Feature_Fusion_Transformer_for_Pansharpening_CVPR_2022_paper.html) | [Repo](https://github.com/wgcban/HyperTransformer) | Pretrained |
+| AAAI | 2025 | MFFA | [Wavelet-Assisted Multi-Frequency Attention Network for Pansharpening](https://ojs.aaai.org/index.php/AAAI/article/view/32381) | [Repo](https://github.com/Jie-1203/WFANet) |  |
+| CVPR | 2025 | ADWM | [A General Adaptive Dual-level Weighting Mechanism for Remote Sensing Pansharpening](https://arxiv.org/abs/2503.13214) | [Repo](https://github.com/Jie-1203/ADWM) |  |
+| CVPR | 2025 | ARConv | [Adaptive Rectangular Convolution for Remote Sensing Pansharpening](https://arxiv.org/abs/2503.00467) | [Repo](https://github.com/WangXueyang-uestc/ARConv) |  |
+| CVPR | 2024 | CANConv | [Content-Adaptive Non-Local Convolution for Remote Sensing Pansharpening](https://arxiv.org/abs/2404.07543) | [Repo](https://github.com/duanyll/CANConv) |  |
+| AAAI | 2024 | DISPNet | [Deep Unfolded Network with Intrinsic Supervision for Pan-Sharpening](https://ojs.aaai.org/index.php/AAAI/article/view/28350) | [Repo](https://github.com/Baixuzx7/DISPNet) |  |
+| TGRS | 2024 | UCGAN | [Unsupervised Pansharpening Based on Double-Cycle Consistency](https://ieeexplore.ieee.org/abstract/document/10457556) | [Repo](https://github.com/zhysora/UCGAN) |  |
+| IJCB | 2024 | DCINN | [A General Paradigm with Detail-Preserving Conditional Invertible Network for Image Fusion](https://link.springer.com/article/10.1007/s11263-023-01924-5) | [Repo](https://github.com/wwhappylife/DCINN) |  |
+| TGRS | 2024 | DCPNet | [DCPNet: A Dual-Task Collaborative Promotion Network for Pansharpening](https://ieeexplore.ieee.org/abstract/document/10473165) | [Repo](https://github.com/lhf12278/DCPNet) |  |
+| TGRS | 2024 | UTeRM | [Deep Unfolding Tensor Rank Minimization With Generalized Detail Injection for Pansharpening](https://ieeexplore.ieee.org/document/10506713) | [Repo](https://github.com/mtntruong/UTeRM) |  |
+| ACM MM | 2023 | U2Net | [U2Net: A General Framework with Spatial-Spectral-Integrated Double U-Net for Image Fusion](https://dl.acm.org/doi/abs/10.1145/3581783.3612084) | [Repo](https://github.com/PSRben/U2Net) |  |
+| CVPR | 2022 | HyperTransformer | [HyperTransformer: A Textural and Spectral Feature Fusion Transformer for Pansharpening](https://openaccess.thecvf.com/content/CVPR2022/html/Bandara_HyperTransformer_A_Textural_and_Spectral_Feature_Fusion_Transformer_for_Pansharpening_CVPR_2022_paper.html) | [Repo](https://github.com/wgcban/HyperTransformer) |  |
 | AAAI | 2022 | LAGConv | [LAGConv: Local-Context Adaptive Convolution Kernels with Global Harmonic Bias for Pansharpening](https://ojs.aaai.org/index.php/AAAI/article/view/19996) |  | Comparison |
 | TGRS | 2020 | FusionNet | [Detail Injection-Based Deep Convolutional Neural Networks for Pansharpening](https://ieeexplore.ieee.org/abstract/document/9240949) |  | Comparison |
 | JSTARS | 2019 | DiCNN | [Pansharpening via Detail Injection Based Convolutional Neural Networks](https://ieeexplore.ieee.org/abstract/document/8667040) |  | Comparison |
