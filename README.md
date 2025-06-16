@@ -50,6 +50,8 @@ Some methods are available at the following locations, [Repo 1](https://github.c
 | TGRS | 2024 | ADRNet | [ADRNet: Affine and Deformable Registration Networks for Multimodal Remote Sensing Images](https://ieeexplore.ieee.org/abstract/document/10459210) | [Repo](https://github.com/Ahuer-Lei/ADRNet) |  |
 | TGRS | 2022 | MU-Net | [A Multiscale Framework With Unsupervised Learning for Remote Sensing Image Registration](https://ieeexplore.ieee.org/abstract/document/9758703) | [Repo](https://github.com/yeyuanxin110/MU-Net) |  |
 | ISPRS | 2021 |  | [A deep learning semantic template matching framework for remote sensing image registration](https://www.sciencedirect.com/science/article/pii/S0924271621002446?ref=pdf_download&fr=RR-2&rr=949418dc9bb3d1e1) | [Repo](https://github.com/liliangzhi110/semantictemplatematching) |  |
+| CVPR | 2021 | LoFTR | [LoFTR: Detector-Free Local Feature Matching with Transformers](https://arxiv.org/abs/2104.00680) | [Repo](https://github.com/zju3dv/LoFTR) |  |
+| CVPR | 2020 | SuperGlue | [SuperGlue: Learning Feature Matching with Graph Neural Networks](https://arxiv.org/abs/1911.11763) | [Repo](https://github.com/magicleap/SuperGluePretrainedNetwork) |  |
 |  |  |  |  |  |  |
 
 <hr>
