@@ -4,14 +4,31 @@
 ## Pansharpening(include Hyper-pans)
 Additional helpful resources [Repo 1](https://github.com/yuanmaoxun/Working-For-Pansharpening), [Repo 2](https://github.com/yc-cui/Pansharpening-Zoo)
 
-### Pretrained provided & Suvery
+### Suvery
+| Venue | Year | AKA | Paper | Code | Remarks |
+|-------|------|-----|--------|--------|--------|
+| GRSM | 2024 |  | [Hyperspectral Pansharpening: Critical review, tools, and future perspectives](https://ieeexplore.ieee.org/abstract/document/10804644) | [Repo](https://github.com/matciotola/hyperspectral_pansharpening_toolbox) |  |
+| ERX | 2024 |  | [Pansharpening and spatiotemporal image fusion method for remote sensing](https://iopscience.iop.org/article/10.1088/2631-8695/ad3a34/meta) |  |  |
+
+
+### Only Diffusion
+| Venue | Year | AKA | Paper | Code | Remarks |
+|-------|------|-----|--------|--------|--------|
+| NeurlPS | 2024 | SSDiff | [SSDiff: Spatial-spectral Integrated Diffusion Model for Remote Sensing Pansharpening](https://proceedings.neurips.cc/paper_files/paper/2024/hash/8e851181b937e2c519ff4c9adbe32be8-Abstract-Conference.html) | [Repo](https://github.com/Z-ypnos/SSDiff_main) |  |
+| TIP | 2024 | CrossDiff | [CrossDiff: Exploring Self-Supervised Representation of Pansharpening via Cross-Predictive Diffusion Model](https://ieeexplore.ieee.org/abstract/document/10685062) | [Repo](https://github.com/codgodtao/CrossDiff) |  |
+| TGRS | 2024 | HLF-GDiffusion | [High-Low-Frequency Progressive-Guided Diffusion Model for PAN and MS Classification](https://ieeexplore.ieee.org/abstract/document/10589720) | [Repo](https://github.com/Xidian-AIGroup190726/HLF-GDiffusion) |  |
+| Information Fusion | 2024 | PLRDiff | [Unsupervised hyperspectral pansharpening via low-rank diffusion model](https://www.sciencedirect.com/science/article/pii/S1566253524001039) | [Repo](https://github.com/earth-insights/PLRDiff) | Pretrained |
+| Information Fusion | 2024 | Dif-PAN | [Diffusion model with disentangled modulations for sharpening multispectral and hyperspectral images](https://www.sciencedirect.com/science/article/pii/S1566253523004748) | [Repo](https://github.com/294coder/Dif-PAN) |  |
+| TGRS | 2023 | PanDiff | [PanDiff: A Novel Pansharpening Method Based on Denoising Diffusion Probabilistic Model](https://ieeexplore.ieee.org/abstract/document/10136205) |  |  |
+|  |  |  |  |  |  |
+
+
+### Papers with Pretrained
 | Venue | Year | AKA | Paper | Code | Remarks |
 |-------|------|-----|--------|--------|--------|
 | AAAI | 2025 | MFFA | [Wavelet-Assisted Multi-Frequency Attention Network for Pansharpening](https://ojs.aaai.org/index.php/AAAI/article/view/32381) | [Repo](https://github.com/Jie-1203/WFANet) | Pretrained |
 | CVPR | 2025 | ADWM | [A General Adaptive Dual-level Weighting Mechanism for Remote Sensing Pansharpening](https://arxiv.org/abs/2503.13214) | [Repo](https://github.com/Jie-1203/ADWM) | Pretrained |
 | CVPR | 2025 | ARConv | [Adaptive Rectangular Convolution for Remote Sensing Pansharpening](https://arxiv.org/abs/2503.00467) | [Repo](https://github.com/WangXueyang-uestc/ARConv) | Pretrained |
-| GRSM | 2024 |  | [Hyperspectral Pansharpening: Critical review, tools, and future perspectives](https://ieeexplore.ieee.org/abstract/document/10804644) | [Repo](https://github.com/matciotola/hyperspectral_pansharpening_toolbox) | Survey |
-| ERX | 2024 |  | [Pansharpening and spatiotemporal image fusion method for remote sensing](https://iopscience.iop.org/article/10.1088/2631-8695/ad3a34/meta) |  | Survey |
 | CVPR | 2024 | CANConv | [Content-Adaptive Non-Local Convolution for Remote Sensing Pansharpening](https://arxiv.org/abs/2404.07543) | [Repo](https://github.com/duanyll/CANConv) | Pretrained |
 | AAAI | 2024 | DISPNet | [Deep Unfolded Network with Intrinsic Supervision for Pan-Sharpening](https://ojs.aaai.org/index.php/AAAI/article/view/28350) | [Repo](https://github.com/Baixuzx7/DISPNet) | Pretrained |
 | TGRS | 2024 | UCGAN | [Unsupervised Pansharpening Based on Double-Cycle Consistency](https://ieeexplore.ieee.org/abstract/document/10457556) | [Repo](https://github.com/zhysora/UCGAN) | Pretrained |
@@ -29,17 +46,6 @@ Additional helpful resources [Repo 1](https://github.com/yuanmaoxun/Working-For-
 |  |  |  |  |  |  |
 
 Some methods are available at the following locations, [Repo 1](https://github.com/codegaj/py_pansharpening), [Repo 2](https://github.com/matciotola/hyperspectral_pansharpening_toolbox/blob/main/preambol.yaml), [Repo 3](https://github.com/liangjiandeng/DLPan-Toolbox/tree/main/01-DL-toolbox(Pytorch)), [Repo 4](https://github.com/XavierJiezou/Pansharpening)
-
-### Only Diffusion
-| Venue | Year | AKA | Paper | Code | Remarks |
-|-------|------|-----|--------|--------|--------|
-| NeurlPS | 2024 | SSDiff | [SSDiff: Spatial-spectral Integrated Diffusion Model for Remote Sensing Pansharpening](https://proceedings.neurips.cc/paper_files/paper/2024/hash/8e851181b937e2c519ff4c9adbe32be8-Abstract-Conference.html) | [Repo](https://github.com/Z-ypnos/SSDiff_main) |  |
-| TIP | 2024 | CrossDiff | [CrossDiff: Exploring Self-Supervised Representation of Pansharpening via Cross-Predictive Diffusion Model](https://ieeexplore.ieee.org/abstract/document/10685062) | [Repo](https://github.com/codgodtao/CrossDiff) |  |
-| TGRS | 2024 | HLF-GDiffusion | [High-Low-Frequency Progressive-Guided Diffusion Model for PAN and MS Classification](https://ieeexplore.ieee.org/abstract/document/10589720) | [Repo](https://github.com/Xidian-AIGroup190726/HLF-GDiffusion) |  |
-| Information Fusion | 2024 | PLRDiff | [Unsupervised hyperspectral pansharpening via low-rank diffusion model](https://www.sciencedirect.com/science/article/pii/S1566253524001039) | [Repo](https://github.com/earth-insights/PLRDiff) | Pretrained |
-| Information Fusion | 2024 | Dif-PAN | [Diffusion model with disentangled modulations for sharpening multispectral and hyperspectral images](https://www.sciencedirect.com/science/article/pii/S1566253523004748) | [Repo](https://github.com/294coder/Dif-PAN) |  |
-| TGRS | 2023 | PanDiff | [PanDiff: A Novel Pansharpening Method Based on Denoising Diffusion Probabilistic Model](https://ieeexplore.ieee.org/abstract/document/10136205) |  |  |
-|  |  |  |  |  |  |
 
 <hr> <!-- 구분선 -->
 
