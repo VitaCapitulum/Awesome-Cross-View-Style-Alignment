@@ -12,7 +12,11 @@ The relevant research papers are available on [previous](../README.md) page.
 
 <hr>
 
-#### Expected Architecture
-<p align="center">
-  <img src="../fig/overview.png" style="width:100%;">
-</p> 
+### Dataset
+
+<hr>
+
+### Proposed Approaches
+* Hybrid Two-Step Image-to-Image Translation Model
+* 3D Point Cloud-Based Ortho-Rectified Pan-Sharpening
+* Multi-Scale Window-Based Fusion for Pan-Sharpened Image Generation
