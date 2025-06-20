@@ -11,11 +11,11 @@ Our own research related to this topic can be found [here](content/README.md).
 Additional helpful resources [Repo 1](https://github.com/yuanmaoxun/Working-For-Pansharpening), [Repo 2](https://github.com/yc-cui/Pansharpening-Zoo)
 
 ### Suvery
-| Venue | Year | AKA | Paper | Code | Remarks |
-|-------|------|-----|--------|--------|--------|
-|  | 2025 |  | [Advancing Image Super-resolution Techniques in Remote Sensing: A Comprehensive Survey](https://arxiv.org/abs/2505.23248) |  |  |
-| GRSM | 2024 |  | [Hyperspectral Pansharpening: Critical review, tools, and future perspectives](https://ieeexplore.ieee.org/abstract/document/10804644) | [Repo](https://github.com/matciotola/hyperspectral_pansharpening_toolbox) |  |
-| ERX | 2024 |  | [Pansharpening and spatiotemporal image fusion method for remote sensing](https://iopscience.iop.org/article/10.1088/2631-8695/ad3a34/meta) |  |  |
+| Venue | Year | Paper | Code | Remarks |
+|-------|------|-----|--------|--------|
+|  | 2025 | [Advancing Image Super-resolution Techniques in Remote Sensing: A Comprehensive Survey](https://arxiv.org/abs/2505.23248) |  |  |
+| GRSM | 2024 | [Hyperspectral Pansharpening: Critical review, tools, and future perspectives](https://ieeexplore.ieee.org/abstract/document/10804644) | [Repo](https://github.com/matciotola/hyperspectral_pansharpening_toolbox) |  |
+| ERX | 2024 | [Pansharpening and spatiotemporal image fusion method for remote sensing](https://iopscience.iop.org/article/10.1088/2631-8695/ad3a34/meta) |  |  |
 
 ### Only Diffusion
 | Venue | Year | AKA | Paper | Code | Remarks |
