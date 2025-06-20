@@ -18,6 +18,6 @@ The relevant research papers are available on [previous](../README.md) page.
 <hr>
 
 ### Proposed Approaches
-* Hybrid Two-Step Image-to-Image Translation Model
+* Diffusion-based Cross-view Image Synthesis via Latent Feature Fusion
 * 3D Point Cloud-Based Ortho-Rectified Pan-Sharpening
 * Multi-Scale Window-Based Fusion for Pan-Sharpened Image Generation
