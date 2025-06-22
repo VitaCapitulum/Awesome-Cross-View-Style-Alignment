@@ -20,4 +20,4 @@ The relevant research papers are available on [previous](../README.md) page.
 ### Proposed Approaches
 * Cross-view Image Synthesis via Latent Feature Fusion
 * 3DGS-based Ortho-Rectified Pan-Sharpening
-* Multi-Scale Window-Based Fusion for Pan-Sharpened Image Generation
+* Multi-Scale Window-Based Fusion for Pan-Sharpening
