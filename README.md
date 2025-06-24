@@ -61,16 +61,6 @@ Some methods are available at the following locations, [Repo 1](https://github.c
 
 <hr>
 
-## Remote Sensing I2I
-| Venue | Year | AKA | Paper | Code | Remarks |
-|-------|------|-----|--------|--------|--------|
-| Remote Sensing | 2025 | RSDiffSR | [Taming a Diffusion Model to Revitalize Remote Sensing Image Super-Resolution](https://www.mdpi.com/2072-4292/17/8/1348#:~:text=conditional%20diffusion%20model%20incorporating%20low,is%20known%20for%20its%20robust) |  | Super-Resolution |
-| TGRS | 2024 | Crs-diff | [CRS-Diff: Controllable Remote Sensing Image Generation With Diffusion Model](https://ieeexplore.ieee.org/abstract/document/10663449) | [Repo](https://github.com/Sonettoo/CRS-Diff) | Multi-condition T2I |
-|  | 2024 |  | [Accelerating Diffusion for SAR-to-Optical Image Translation via Adversarial Consistency Distillation](https://arxiv.org/abs/2407.06095) | [Repo](https://github.com/Coordi777/ACD_S2ODPM) | SAR -> Optical |
-|  |  |  |  |  |  |
-
-<hr>
-
 ## Remote Sensing Image Registration(Geometric Alignment)
 | Venue | Year | AKA | Paper | Code | Remarks |
 |-------|------|-----|--------|--------|--------|
@@ -79,6 +69,16 @@ Some methods are available at the following locations, [Repo 1](https://github.c
 | ISPRS | 2021 |  | [A deep learning semantic template matching framework for remote sensing image registration](https://www.sciencedirect.com/science/article/pii/S0924271621002446?ref=pdf_download&fr=RR-2&rr=949418dc9bb3d1e1) | [Repo](https://github.com/liliangzhi110/semantictemplatematching) |  |
 | CVPR | 2021 | LoFTR | [LoFTR: Detector-Free Local Feature Matching with Transformers](https://arxiv.org/abs/2104.00680) | [Repo](https://github.com/zju3dv/LoFTR) |  |
 | CVPR | 2020 | SuperGlue | [SuperGlue: Learning Feature Matching with Graph Neural Networks](https://arxiv.org/abs/1911.11763) | [Repo](https://github.com/magicleap/SuperGluePretrainedNetwork) |  |
+|  |  |  |  |  |  |
+
+<hr>
+
+## Remote Sensing I2I
+| Venue | Year | AKA | Paper | Code | Remarks |
+|-------|------|-----|--------|--------|--------|
+| Remote Sensing | 2025 | RSDiffSR | [Taming a Diffusion Model to Revitalize Remote Sensing Image Super-Resolution](https://www.mdpi.com/2072-4292/17/8/1348#:~:text=conditional%20diffusion%20model%20incorporating%20low,is%20known%20for%20its%20robust) |  | Super-Resolution |
+| TGRS | 2024 | Crs-diff | [CRS-Diff: Controllable Remote Sensing Image Generation With Diffusion Model](https://ieeexplore.ieee.org/abstract/document/10663449) | [Repo](https://github.com/Sonettoo/CRS-Diff) | Multi-condition T2I |
+|  | 2024 |  | [Accelerating Diffusion for SAR-to-Optical Image Translation via Adversarial Consistency Distillation](https://arxiv.org/abs/2407.06095) | [Repo](https://github.com/Coordi777/ACD_S2ODPM) | SAR -> Optical |
 |  |  |  |  |  |  |
 
 <hr>
