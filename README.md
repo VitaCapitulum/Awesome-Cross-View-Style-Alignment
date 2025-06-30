@@ -12,8 +12,6 @@ Our own research related to this topic can be found [here](content/README.md).
 |-------|------|-----|--------|--------|--------|
 | Remote Sensing | 2025 | RSDiffSR | [Taming a Diffusion Model to Revitalize Remote Sensing Image Super-Resolution](https://www.mdpi.com/2072-4292/17/8/1348#:~:text=conditional%20diffusion%20model%20incorporating%20low,is%20known%20for%20its%20robust) |  | Super-Resolution |
 | TGRS | 2024 | Crs-diff | [CRS-Diff: Controllable Remote Sensing Image Generation With Diffusion Model](https://ieeexplore.ieee.org/abstract/document/10663449) | [Repo](https://github.com/Sonettoo/CRS-Diff) | Multi-condition T2I |
-|  | 2024 |  | [Accelerating Diffusion for SAR-to-Optical Image Translation via Adversarial Consistency Distillation](https://arxiv.org/abs/2407.06095) | [Repo](https://github.com/Coordi777/ACD_S2ODPM) | SAR -> Optical |
-|  |  |  |  |  |  |
 
 <hr>
 
